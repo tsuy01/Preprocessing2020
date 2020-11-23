@@ -1,0 +1,16 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+FI00001	makla	филин	n	n	s	0	n	n	nul	nul	nul	0	s	anm	nul	1	1
+FI00101	sus -n	осень LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+FI00102	kǫrt -ən	деревня LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+FI00201	puš	раз	p	sbj	s	0	n	n	nul	nul	nul	0	nu	non	iob	0	0
+FI00202	jetn	вечер	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+FI00203	kǫr	улице	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+FI00204	makla -lԑ -t	филин DIM PL	p	sbj	s	0	n	n	nul	dim	nul	0	p	anm	sbj	0	1
+FI00301	aj łaŋki	маленький белка	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+FI00401	i makla	один филин	p	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	sbj	0	1
+FI00701	aŋkԑ -m	мать 1SG	i	sbj	s	1	1s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+FI00901	aśԑ -m	отец 1SG	i	sbj	s	1	1s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+FI01001	makla	филин	i	sbj	s	0	n	n	psp	nul	nul	0	s	anm	pob	0	1
+FI01101	ńăx -n	смех LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+FI01301	e randimɔwa	Е Рандымова	n	n	s	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+FI01302	kasəm	Казым	n	n	s	0	n	n	nul	nul	nul	0	s	non	nul	1	1

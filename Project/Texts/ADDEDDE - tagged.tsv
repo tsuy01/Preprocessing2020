@@ -1,0 +1,282 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF		
+DE00001	kǫrt -ən	деревня LOC	p	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	
+DE00002	ńawrԑm -əŋ	ребенок ATTR	p	n	s	0	n	n	nul	atr	nul	0	s	hum	attr	0	0	ок	Мб, я неправ про реф. статус.
+DE00003	ńawrԑm -əŋ imi	ребенок ATTR женщина	p	n	s	0	n	n	nul	atr	nul	0	s	hum	sbj	1	1	ок	
+DE00101	jis potər	древний разговор	n	n	s	0	n	n	nul	nul	nul	0	s	non	??	1	1	ок	Заголовок
+DE00201	pora -j -n	время STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	Реф статус правильный?
+DE00202	jis potər	древний разговор	i	sbj	s	0	n	n	nul	nul	simas	0	s	non	sbj	0	1	ок	Надо перепроверить
+DE00301	katra šǫk -əŋ	старый беда ATTR	p	n	s	0	n	n	nul	atr	nul	0	s	non	attr	0	0	ок	
+DE00302	katra šǫk -əŋ jis pora -j -n	старый беда ATTR древний время STEM LOC	p	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	
+DE00303	śi wԑr	этот дело	p	n	s	0	n	n	nul	nul	si	0	s	non	sbj	1	1	ок	Перепроверить!
+DE00401	mołti arat	какой-то количество	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE00402	mołti arat łuw kǫt	какой-то количество он год	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1	ок	Не уверен про вид.
+DE00403	kǫt	год	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1	ок	??
+DE00404	kǫt	год	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	1	ок	??
+DE00405	śiməś jis potr -ət	такой древний разговор PL	i	sbj	s	0	n	n	nul	nul	simas	0	p	non	sbj	1	1	ок	??
+DE00406	păłtap -əŋ	страх ATTR	i	sbj	s	0	n	n	nul	atr	nul	0	s	non	attr	0	0	ок	
+DE00407	păłtap -əŋ jis pora -j -n	страх ATTR древний время STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	Не уверен про реф статус
+DE00408	wǫnt -n	лес LOC	i	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0	ок	не уверен про статус
+DE00409	wǫnt	лес	i	n	s	0	n	n	nul	nul	nul	0	s	non	attr	0	0	ок	
+DE00410	wǫnt ot -ət	лес вещь PL	i	n	s	0	n	n	nul	nul	nul	0	p	anm	sbj	0	1	ок	не уверен про реф статус
+DE00411	pora -j -n	время STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	1	ок	тоже не уверен
+DE00501	śiməś jis potər	такой древний разговор	p	sbj	s	0	n	n	nul	nul	simas	0	s	non	obj	1	1	ок	Тут вроде детерминер, но при этом вводится в дискурс новое.
+DE00601	katra pora -j -n	старый время STEM LOC	i	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0	ок	Проверить реф статус
+DE00602	ńawrԑm -əŋ	ребенок ATTR	i	n	s	0	n	n	nul	atr	nul	0	s	hum	attr	0	0	ок	
+DE00603	ńawrԑm -əŋ imi	ребенок ATTR женщина	i	n	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	0	ок	
+DE00604	kǫrt -ən	деревня LOC	i	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0	ок	
+DE00701	ike -ł	муж 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	0	0	ок	Кажется, тут слоппи
+DE00702	ike -ł wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0	ок	
+DE00703	tiłəś	месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	0	ок	
+DE00704	tiłəś	месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	0	ок	
+DE00705	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0	ок	
+DE00706	tom jɔxəm ɔłəŋ -n	тот сосновый бор край LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0	ок	слоппи
+DE00707	moj tom jɔxəm	LOC что тот	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE00708	mătta rǫtna -j -ł	край LOC какой-то родня	p	sbj	s	1	n	n	nul	nul	nul	0	s	anm		1	1		
+DE00709	imi -ł -ał	быть.NPST.если жена PL	p	sbj	s	1	3p	n	nul	nul	nul	0	ж	anm		1	1		
+DE00710	ńawrԑm -ł -ał	FOC ребенок PL	p	sbj	s	1	3p	n	nul	nul	nul	0	р	anm		1	1		
+DE00711	łiw wǫnt	3PL.S:PL.O они	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE00712	iki -ł -ał	IPFV.PART муж PL	p	sbj	s	1	3p	n	nul	nul	nul	0	м	anm		1	1		
+DE00713	iki -ł -ał wǫnt	IPFV.PART муж PL 3PL	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE00714	pora -j -n	IPFV.PART время STEM	p	sbj	s	0	n	n	stem	nul	nul	0	s	anm		1	1		
+DE00801	tom rǫtna -ł -ał	тот родня PL 3SG	p	sbj	s	1	3s	n	psp	nul	nul	0	p	anm		1	1		
+DE00802	aki -ł -ał	дядя PL 3PL	p	sbj	s	1	3p	n	nul	nul	nul	0	p	anm		1	1		
+DE00901	śԑmja -j -əŋ	семья STEM ATTR	p	sbj	s	0	n	n	nul	atr	nul	0	s	non	attr	0	0	ок	
+DE00902	śԑmja -j -əŋ iki -leŋki	семья STEM ATTR мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1	ок	
+DE00903	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0	ок	
+DE00904	tăł -a	зима DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	sbj	0	1	ок	Какой член предложения?
+DE00905	łaŋki	белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	0	ок	
+DE01001	tiłəś	месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	0	ок	Мерное выражение.
+DE01002	tiłəś	месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	0	ок	Мерное выражение.
+DE01101	ime -ł	жена 3SG	p	n	s	1	3s	fam	psp	nul	nul	0	s	hum	iob	1	1	ок	
+DE01201	ńawrԑm -ł -in	ребенок PL 2/3DU	i	sbj	s	1	2/3d	fam	psp	nul	nul	0	p	hum	psp	1	1	ок	
+DE01301	ńawrԑm	ребенок	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	1	1	ок	Там конструкция с числительным
+DE01401	wułi -ł -in	олень PL 2/3DU	p	sbj	s	1	2/3d	n	nul	nul	nul	0	p	anm		1	1		
+DE01501	wułi -ł -in	олень PL 2/3DU	p	sbj	s	1	2/3d	n	psp	nul	nul	0	p	anm		1	1		
+DE01601	ime -ł	жена 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE01901	łԑtot	еда	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE01902	łԑtot moj xuł	еда что рыба	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE01903	łԑtot moj xuł łԑtot	еда что рыба еда	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE01904	łԑtot moj xuł łԑtot moj ńoxi	еда что рыба еда что мясо	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02001	ńań	хлеб	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02002	mołti śir -n	какой-то образ LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02003	mołti śir -n jɔš -a	какой-то образ LOC рука DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02004	łant	мука	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02005	mołti śir -n	какой-то образ LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02101	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02102	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02103	xǫ łaŋki -j -a	мужчина белка STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02104	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02105	xǫ łaŋki -j -a	мужчина белка STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02106	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02107	xǫ tiłəś	мужчина месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE02108	tiłəś	месяц	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE02201	ǫxł -əł	нарта 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE02202	kԑm	образ	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02203	kԑm porməs -ł -ał	образ товар PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE02204	jɔx -ł -ał	люди PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE02301	łuw wǫnt -a	он лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02302	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02401	łaŋki	белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02402	mołti muw -a	какой-то земля DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02403	katra pora -j -n	старый время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02404	łaŋkԑ -ŋ	белка ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02405	łaŋkԑ -ŋ muw	белка ATTR земля	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02501	kǫt	год	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02502	śir -n	образ LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02503	moj tăxi -j -n	что место STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02504	moj tăxi -j -n łaŋki	что место STEM LOC белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02505	moj tăxi -j -n	что место STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02506	ńoxəs	соболь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02507	moj woxsar	что лиса	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02508	śir -n	образ LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02509	kǫt -n	год LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE02601	łaŋki	белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02602	łaŋki măta muw	белка который земля	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02603	łaŋki măta muw jir	белка который земля сторона	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE02604	śi muw	этот земля	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02605	śi muw jir -a	этот земля сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02606	śi muw jir -a łaŋki	этот земля сторона DAT белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02607	muw	земля	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE02608	muw jir -a	земля сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE02609	muw jir -a ike -ł	земля сторона DAT мужчина 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE02701	łuw jɔx -ł -ał	он люди PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE02801	jɔx -ł -ał	люди PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE03001	tăł	зима	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03002	tăł kutəp -a	зима середина DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE03101	ike -ł	муж 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE03102	pora -j -a	время STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE03103	wǫnt	лес	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE03104	pora -j -a	время STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE03201	ńawrԑm -əł	ребенок 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE03202	kuł jetn -a	толстый вечер DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE03203	ńawrԑm -əł	ребенок 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE03301	oš -ł	ум 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE03401	imi	женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03402	ńawrԑm -əł	ребенок 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE03501	katra pora -j -n	старый время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE03502	katra pora -j -n śi šǫk -əŋ	старый время STEM LOC этот беда ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03503	katra pora -j -n śi šǫk -əŋ jis pora -j -n	старый время STEM LOC этот беда ATTR древний время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE03504	katra pora -j -n śi šǫk -əŋ jis pora -j -n ńawrԑm	старый время STEM LOC этот беда ATTR древний время STEM LOC ребенок	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03701	wǫnt	улице	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03702	wǫnt ot -ət	улице лес вещь	p	sbj	s	0	n	n	nul	nul	nul	0	в	anm		1	1		
+DE03703	śi pora -j -n	3PL этот время STEM	p	sbj	s	0	n	n	stem	nul	nul	0	s	anm		1	1		
+DE03704	ńawrԑm -ət	3PL ребенок	p	sbj	s	0	n	n	nul	nul	nul	0	р	anm		1	1		
+DE03705	ńawrԑm -ət wǫnt -a	3PL ребенок PL лес	p	sbj	s	0	n	n	лес	nul	nul	0	s	anm		1	1		
+DE03706	wǫnt	3PL	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE03707	wǫnt ot -ət -n	3PL лес вещь PL	p	sbj	s	0	n	n	pl	nul	nul	0	в	anm		1	1		
+DE03801	katra pora -j -n	старый время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE04001	oš -a	ум DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE04002	tăm jis -n	этот век LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE04101	tăm jis -en	этот век 2SG	p	sbj	s	1	2s	n	nul	nul	nul	0	s	anm		1	1		
+DE04201	ńawrԑm -əł	ребенок 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE04202	kuł jetn	толстый вечер	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04401	pawuška	бабушка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04402	pawuška ńawrԑm -əł	бабушка ребенок 3SG	p	sbj	s	1	3s	n	psp	nul	nul	0	s	anm		1	1		
+DE04601	ɔw	дверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04602	ɔw pԑlk -a	дверь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE04701	śi pora -j -n	этот время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE04702	śi pora -j -n xɔt	этот время STEM LOC дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04703	śi pora -j -n xɔt ɔw -ije -ł -ał	этот время STEM LOC дом дверь DIM PL 3SG	p	sbj	s	1	3s	n	nul	dim	nul	0	p	anm		1	1		
+DE04704	śi pora -j -n xɔt ɔw -ije -ł -ał łԑł xɔt	этот время STEM LOC дом дверь DIM PL 3SG низкий дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04705	śi pora -j -n xɔt ɔw -ije -ł -ał łԑł xɔt ɔw -ije -t	этот время STEM LOC дом дверь DIM PL 3SG низкий дом дверь DIM PL	p	sbj	s	0	n	n	nul	dim	nul	0	p	anm		1	1		
+DE04801	ɔw	дверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04802	ɔw pԑlk -a	дверь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE04803	pun -əŋ	шерсть ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04804	pun -əŋ mołti wǫnt	шерсть ATTR какой-то лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04805	pun -əŋ mołti wǫnt iki	шерсть ATTR какой-то лес мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04901	mԑtra	метр	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04902	mԑtra păłat	метр высота	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE04903	mԑtra păłat iki	метр высота мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05001	ɔw -ən	дверь LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE05002	katra xănti	старый ханты	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05003	katra xănti xɔt	старый ханты дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05004	katra xănti xɔt ɔw -ije -t	старый ханты дом дверь DIM PL	p	sbj	s	0	n	n	nul	dim	nul	0	p	anm		1	1		
+DE05101	ɔw	дверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05102	ɔw šǫp -ł -ał	дверь половина PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE05103	ɔw šǫp -ł -ał moj -ł -ał -n łipi -j -a	дверь половина PL 3SG что PL 3SG LOC внутренность STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE05201	imi	женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05202	imi wǫnt	женщина лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05203	imi wǫnt ot	женщина лес вещь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05301	łԑtot	еда	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05302	łԑpəŋ -n	: IPFV.PART	p	sbj	s	0	n	n	ipfv.part	nul	nul	0	s	anm		1	1		
+DE05303	łԑpəŋ -n łԑtot	: IPFV.PART сени	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05401	xănti	человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05402	xănti jasəŋ -n	человек язык LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE05403	tomi wǫnt	тот лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05404	tomi wǫnt ot -ł	тот лес вещь 3SG	p	sbj	s	1	3s	n	psp	nul	nul	0	s	anm		1	1		
+DE05501	łԑtot	еда	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05502	ɔw	потом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05503	xǫl -a	дверь немного	p	sbj	s	0	n	n	немного	nul	nul	0	s	anm		1	1		
+DE05601	xănti	человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05602	xănti jasəŋ	человек язык	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05603	wǫnt	лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05604	wǫnt ot -ł	лес вещь 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE05605	mołti wur -n	какой-то сторона LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE05701	łԑtot	еда	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE05702	łԑtot łԑpəŋ -a	еда сени DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE05801	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06001	katra pora -j -n	старый время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE06002	katra pora -j -n iki -ł -ał	старый время STEM LOC муж PL 3PL	p	sbj	s	1	3p	n	nul	nul	nul	0	p	anm		1	1		
+DE06003	katra pora -j -n iki -ł -ał wǫnt -a	старый время STEM LOC муж PL 3PL лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE06004	rǫtna -ł -ał	родня PL 3PL	p	sbj	s	1	3p	n	psp	nul	nul	0	p	anm		1	1		
+DE06005	jɔx -ł -ał	люди PL 3PL	p	sbj	s	1	3p	n	nul	nul	nul	0	p	anm		1	1		
+DE06006	păłtap -əŋ	страх ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06007	păłtap -əŋ jis pora -j -n	страх ATTR древний время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE06101	śi kǫrt -a	этот деревня DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE06102	śi kǫrt -a kǫrt -a	этот деревня DAT деревня DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE06103	łuw wԑrsta	он верста	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06104	łuw wułi	он олень	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06105	łuw wułi mărš -əp	он олень пробег ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06301	ńawrԑm -ł -ał	ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE06302	mătta ńawrԑm -əł	какой-то ребенок 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE06401	kǫrt -a	деревня DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE06402	tut -əŋ	огонь ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06403	tut -əŋ ɔw	огонь ATTR дверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06404	rǫtna -j -ł	родня STEM 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE06405	rǫtna -j -ł xɔt -a	родня STEM 3SG дом DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE06406	ruw -əł -n	жар 3SG LOC	p	sbj	s	1	3s	n	loc	nul	nul	0	s	anm		1	1		
+DE06501	xɔt -n	дом LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE06502	jɔx -ən	люди LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE06601	kur -ł -ał	PASS нога PL	p	sbj	s	1	3p	n	nul	nul	nul	0	н	anm		1	1		
+DE06801	kur -ł -ał	нога PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE06802	potər	разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06803	potər oš -ł	разговор ум 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE06804	imi	женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06901	moj oš -ł	что ум 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE06902	kǫrt	деревня	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE06903	moj wur -n	что сторона LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE06904	xɔt -əŋ	дом ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE06905	xɔt -əŋ jɔx -ł -ał	дом ATTR люди PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE07001	ńawrԑm -ł -ał	ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE07002	ńawrԑm -ł -ał	ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE07201	łuw uŋł -əł	он рот 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE07202	at	ночь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07203	at măr	ночь время	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07204	at măr at	ночь время ночь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07301	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE07501	wǫnt	лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07502	wǫnt ot -n	лес вещь LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE07503	jǫr -ԑm	сила 1SG	p	sbj	s	1	1s	n	nul	nul	nul	0	s	anm		1	1		
+DE07601	xătł	день	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07602	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE07603	ǫxəł	нарта	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07604	ǫxəł wułi	нарта олень	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07605	kǫrt -ł -a	деревня 3SG DAT	p	sbj	s	1	3s	n	dat	nul	nul	0	s	anm		1	1		
+DE07701	ńawrԑm -ł -ał	ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE07702	ńawrԑm -ł -ał sǫł -ł -ał	ребенок PL 3SG кишка PL 3PL	p	sbj	s	1	3p	n	nul	nul	nul	0	p	anm		1	1		
+DE07703	śoxalԑ -ŋ	чувал ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07704	śoxalԑ -ŋ xɔt	чувал ATTR дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07705	śoxalԑ -ŋ xɔt katra jis -n	чувал ATTR дом старый век LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE07706	śoxalԑ -ŋ xɔt katra jis -n śoxalԑ -ŋ	чувал ATTR дом старый век LOC чувал ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07707	śoxalԑ -ŋ xɔt katra jis -n śoxalԑ -ŋ xɔt	чувал ATTR дом старый век LOC чувал ATTR дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07708	śoxalԑ -ŋ xɔt katra jis -n śoxalԑ -ŋ xɔt put	чувал ATTR дом старый век LOC чувал ATTR дом котел	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07709	śoxalԑ -ŋ xɔt katra jis -n śoxalԑ -ŋ xɔt put jux	чувал ATTR дом старый век LOC чувал ATTR дом котел палка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07710	śoxalԑ -ŋ xɔt katra jis -n śoxalԑ -ŋ xɔt put jux put	чувал ATTR дом старый век LOC чувал ATTR дом котел палка котел	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07711	put	котел	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07712	put jux -ət	котел палка PL	p	sbj	s	0	n	n	psp	nul	nul	0	p	anm		1	1		
+DE07801	put	котел	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07802	put jux -a	котел палка DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE07803	put jux -a sǫł -ł -ał	котел палка DAT кишка PL 3PL	p	sbj	s	1	3p	n	nul	nul	nul	0	p	anm		1	1		
+DE07804	-ət ńawrԑm -ł -ał	PL ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE07805	-ət wǫnt	PL лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE07806	-ət wǫnt ot -ət -n	PL лес вещь PL LOC	p	sbj	s	0	n	n	loc	nul	nul	0	p	anm		1	1		
+DE07901	śi wԑr	этот дело	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08001	ike -ł	муж 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08002	ike -ł ike -ł	муж 3SG муж 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08003	pora -j -a	время STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE08004	wǫnt	лес	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm		1	1		
+DE08005	tiłəś	месяц	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08006	tiłəś	месяц	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08101	ńawrԑm -ł -ał	ребенок PL 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	p	anm		1	1		
+DE08201	ime -ł	жена 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08202	ime -ł	жена 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08203	łił -əł	душа 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08204	wԑr	дело	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08205	wԑr	дело	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08206	potər	разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08207	potər potər	разговор разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08208	potər potər połś	разговор разговор сплетня	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08301	xuw tǫrəm	длинный жизнь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08302	wan tǫrəm	короткий жизнь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08303	potər	разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08304	potər połś	разговор сплетня	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08305	wǫn xănnԑxǫ	большой человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08401	wǫnt	лес	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08402	wǫnt ot -n	лес вещь LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm		1	1		
+DE08403	wǫnt ot -n jɔš -a	лес вещь LOC рука DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE08404	potər	разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08405	śir -ł	возможность 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08406	nԑməłt śir	никакой возможность	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08501	ńawrԑm -ət	ребенок PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	anm		1	1		
+DE08502	ńawrԑm -ət	ребенок PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	anm		1	1		
+DE08503	wus	дырка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08601	wǫn xănnԑxǫ	большой человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08602	potər	разговор	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08701	wԑr	дело	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08801	xănnԑxǫ	человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08901	ike -ł	мужчина 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		
+DE08902	ike -ł wǫnt -a	мужчина 3SG лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+DE08903	pǫn	гымга	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08904	xănnԑxǫ	человек	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+DE08905	rǫtna -j -ł	родня STEM 3SG	p	sbj	s	1	3s	n	psp	nul	nul	0	s	anm		1	1		
+DE09001	potr -əł	разговор 3SG	p	sbj	s	1	3s	n	nul	nul	nul	0	s	anm		1	1		

@@ -1,0 +1,1824 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+MD00001	xătəł	солнце	n	n	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD00002	xătəł aj ewi -je	солнце маленький дочь DIM	n	n	s	0	n	n	nul	dim	nul	1	s	hum	nul	0	1
+MD00101	imԑ -ŋən ikԑ -ŋən	жена DU муж DU	i	sbj	s	0	n	n	nul	nul	nul	0	d	hum	sbj	0	1
+MD00102	imԑ -ŋən	жена DU	i	sbj	s	i	n	n	nul	nul	nul	0	d	hum	sbj	0	1
+MD00103	ikԑ -ŋən	муж DU	i	sbj	s	i	n	n	nul	nul	nul	0	d	hum	sbj	0	1
+MD00104	i pox	один сын	i	sbj	s	0	n	n	nul	nul	i	0	s	hum	obj	0	1
+MD00201	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD00202	mɔj -a	сват DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD00301	nărəł wox keši wox	мостик деньги нож деньги	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	0
+MD00302	nărəł	мостик	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD00303	nărəł wox	мостик деньги	i	sbj	s	i	n	n	nul	nul	nul	1	s	non	sbj	0	0
+MD00304	keši	нож	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD00305	keši wox	нож деньги	i	sbj	s	i	n	n	nul	nul	nul	1	s	non	gen	0	0
+MD00306	nărəł wox keši wox sij -əŋ wɔš	мостик деньги нож деньги шум ATTR город	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	0	1
+MD00307	tǫrəm	небо	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD00308	muw	земля	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD00309	muw kiməł	земля край	i	sbj	s	0	n	n	psp	nul	nul	1	s	non	pob	0	1
+MD00310	wɔš	город	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1
+MD00501	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD00502	aśe -ł iki -j -ən	отец 3SG мужчина STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	hum	iob	1	1
+MD00503	keši -j -ən	нож STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+MD00504	łɔw -ən	лошадь LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	1
+MD00701	i tăxi -j -ən	один место STEM LOC	p	sbj	s	0	n	n	loc	nul	i	0	s	non	iob	0	1
+MD00702	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+MD00703	xuł	рыба	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+MD00704	xuł sox	рыба шкура	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	0
+MD00705	xuł sox săx -əp xǫ	рыба шкура шуба ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	app	0	1
+MD00801	in xǫ -j -əł -ən	этот мужчина STEM 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	in	0	s	hum	iob	1	1
+MD01001	mɔj -a	сват DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD01002	xătəł	день	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD01003	xătəł imi	день женщина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	0	1
+MD01004	xătəł imi aj ewi	день женщина маленький дочь	i	sbj	s	0	n	n	psp	nul	nul	1	s	hum	pob	0	1
+MD01101	in xǫ -j -əł	этот мужчина STEM 3SG	i	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD01301	i tăxi -j -ən	один место STEM LOC	p	sbj	s	0	n	n	loc	nul	i	0	s	non	iob	0	1
+MD01302	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+												1					
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+MD01303	pupi sox -əp săx -əŋ xǫ	медведь шкура ATTR шуба ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+MD01401	in xǫ -j -əł -ən	этот мужчина STEM 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	in	0	s	hum	iob	1	1
+MD01501	mɔj -a	сват DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD01601	xǫłəm xǫ -j -ən	три мужчина STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	1	1
+MD01701	i tăxi -j -ən	один место STEM LOC	p	sbj	s	0	n	n	loc	nul	i	0	s	non	iob	0	1
+MD01702	i xǫ	один мужчина	p	sbj	s	0	n	n	nul	nul	i	0	s	hum	obj	0	1
+MD01801	in xǫ -j -əł	этот мужчина STEM 3SG	i	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD02001	mɔj -a	сват DAT	i	obj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD02201	i tăxi -j -ən	один место STEM LOC	p	sbj	s	0	n	n	loc	nul	i	0	s	non	iob	0	1
+MD02202	wǫn xon -əp xǫ	большой живот ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+MD02301	śi xǫ -j -əł	этот мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	si	0	s	hum	sbj	1	1
+MD02501	kur -ŋən -a	нога DU DAT	p	sbj	s	0	n	n	dat	nul	nul	0	d	non	iob	0	1
+MD02502	xǫłmit xătəł	третий день	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	1	1
+MD02503	ox -əł -a	голова 3SG DAT	p	sbj	s	1	3s	bod	dat	nul	nul	0	s	non	iob	1	1
+MD02601	in xuw kur -əp xǫ -j -əł	этот длинный нога ATTR мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD02801	i tăxi -j -ən	один место STEM LOC	p	sbj	s	0	n	n	loc	nul	i	0	s	non	iob	0	1
+MD02802	wԑnš -əł	лицо 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+MD02803	xǫ	мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	1
+MD02804	mɔj -a	сват DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD02901	wɔš -əł -a	город 3SG DAT	p	sbj	s	1	3s	dis	dat	nul	nul	0	s	non	iob	0	1
+MD03001	wɔš	город	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+MD03002	łɔw -əł	лошадь 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	anm	obj	1	1
+MD03003	aŋkəł	пень	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03004	aŋkəł šǫp -a	пень кусок DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	0
+MD03101	wɔš -a	город DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD03102	in jɔx	этот люди	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD03201	łapət łăł	семь сажень	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03202	łapət łăł păłat	семь сажень высота	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	0
+MD03203	karti	железо	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03204	łapət łăł păłat karti aŋkəł	семь сажень высота железо столб	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	1
+MD03205	łapət łăł păłat karti aŋkəł tij -ən	семь сажень высота железо столб конец LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+MD03206	xătəł	солнце	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD03207	imi	солнце женщина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	1	1
+MD03208	xătəł imi aj ewi	солнце женщина маленький дочь	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	1	1
+MD03209	tur	горло	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03210	xătəł imi aj ewi tur šarp	солнце женщина маленький дочь горло шарф	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	0	1
+MD03211	nǫm -ən	верх LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD03301	łɔw -ən	лошадь LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	0
+MD03302	ot -ət	вещь PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	non	sbj	0	1
+MD03303	karti	железо	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03304	karti aŋkəł	железо столб	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1
+MD03305	karti aŋkəł tij -a	железо столб конец DAT	i	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+MD03306	kur -əŋ ot -ət	нога ATTR вещь PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	non	sbj	0	1
+MD03401	in jɔx	этот люди	i	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD03402	jɔx -ł -ał	люди PL 3SG	i	sbj	s	1	3s	rel	nul	nul	nul	0	p	hum	sbj	1	1
+MD03403	in xǫ	этот мужчина	p	obj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD03404	łɔw -əł	лошадь 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	anm	obj	1	1
+MD03501	łɔw -əł	лошадь 3SG	p	sbj	s	1	3s	own	nul	nul	nul	0	s	anm	gen	1	1
+MD03502	łɔw -əł i păł -a	лошадь 3SG один ухо DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	1
+MD03503	i păł -a	один ухо DAT	p	sbj	s	0	n	n	dat	nul	i	0	s	non	iob	0	1
+MD03601	aŋkəł	столб	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD03602	aŋkəł tij -ən	столб конец LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	1	1
+MD03603	tur	горло	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD03604	tur šarp	горло шарф	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+MD03605	śi šarp	этот шарф	p	sbj	s	0	n	n	nul	nul	si	0	s	non	sbj	1	1
+MD03606	imi -j -a	жена STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD03607	xătəł	день	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD03608	xătəł aj ewi	день маленький дочь	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	obj	1	1
+MD03701	łɔw -əł -a	лошадь 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	anm	iob	1	1
+MD03702	in šarp	этот шарф	p	obj	s	0	n	n	nul	nul	in	0	s	non	obj	1	1
+MD03703	keši	нож	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD03704	keši tij -ən	нож конец LOC	p	obj	s	0	n	n	loc	nul	nul	1	s	non	iob	1	1
+MD03801	wɔš	город	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD03802	wɔš ɔłəŋ -ən	город край LOC	p	obj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+MD03803	łɔw -əł	лошадь 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	anm	obj	1	1
+MD03804	iśi xǫłԑ -ŋ aŋkəł -a	тот же грязь ATTR пень DAT	p	sbj	s	0	n	n	dat	nul	isi	0	s	non	iob	0	0
+MD03901	xǫ -j -ł -ał	мужчина STEM PL 3SG	p	sbj	s	1	3s	rel	psp	nul	nul	0	p	hum	pob	1	1
+MD04101	mătta muw	какой-то земля	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+MD04102	naj	огонь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD04103	naj pox -ən	огонь мальчик LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	hum	iob	0	1
+MD04104	wǫrt	бог	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+MD04105	wǫrt pox -ən	бог мальчик LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	hum	iob	0	1
+MD04106	xătəł	день	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD04107	xătəł imi	день женщина	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	1	1
+MD04108	xătəł imi aj ewi	день женщина маленький дочь	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	1	1
+MD04109	tur	горло	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD04110	xătəł imi aj ewi tur šarp	день женщина маленький дочь горло шарф	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+MD04201	jɔx	люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	1
+MD04202	mirxɔt -a	собрание DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+MD04301	tur	горло	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD04302	tur šarp	горло шарф	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+MD04303	păsan -a	стол DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD04401	in jɔx	этот люди	i	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD04501	imԑ -ŋən ikԑ -ŋən	женщина DU мужчина DU	p	sbj	s	0	n	n	nul	nul	nul	0	d	hum	gen	1	1
+MD04502	imԑ -ŋən	женщина DU	p	sbj	s	i	n	n	nul	nul	nul	0	d	hum	gen	1	1
+MD04503	ikԑ -ŋən	мужчина DU	p	sbj	s	i	n	n	nul	nul	nul	0	d	hum	gen	1	1
+MD04504	imԑ -ŋən ikԑ -ŋən pox	женщина DU мужчина DU сын	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	obj	1	1
+MD04601	tur	горло	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD04602	tur šarp	горло шарф	p	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+MD04603	păsan -a	стол DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD04701	in xǫ	этот мужчина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD04702	sut -ən	задание LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+MD04801	wǫn tut	большой огонь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1
+MD04802	tut	огонь	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+MD04803	łił -əł	душа 3SG	p	sbj	s	1	3s	oth	nul	nul	nul	0	s	non	sbj	1	1
+MD04804	in nԑ	этот женщина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD04805	imi -j -a	жена STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	hum	iob	0	0
+MD04901	tut	огонь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD04902	wԑnš -əł	лицо 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+MD04903	ike -ł	мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD04904	tut	огонь	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+MD05001	tut	огонь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD05002	in ike -ł	этот мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD05101	in ike -ł	этот мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD05102	tin -łi nԑ	цена CAR женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+MD05103	in pԑlli nԑ	неменяемый женщина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD05301	in xǫ	этот мужчина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD05302	muw -əŋ pԑlək	земля ATTR сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+MD05303	jiŋk -əŋ pԑlək	вода ATTR сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+MD05401	imołti aj -ən	какой-то новость LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+MD05402	i xǫ	один мужчина	p	sbj	s	0	n	n	nul	nul	i	0	s	hum	sbj	0	1
+MD05501	săm -əł	сердце 3SG	p	obj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+MD05601	wǫnt -ən	лес LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+MD05602	xɔt -əł -a	дом 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+MD05603	łapət xăšap	семь полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD05604	wǫn xăšap	большой полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD05605	łapət xăšap wǫn xăšap nԑm -əp xǫ	семь полог большой полог имя ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1
+MD05701	ime -ł	жена 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+MD05801	kǫjŋ -əł	сердце 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+MD05901	łapət xăšap	семь полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD05902	wǫn xăšap	большой полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD05903	łapət xăšap wǫn xăšap nԑm -əp xǫ	семь полог большой полог имя ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD06101	in nԑ	этот женщина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD06102	ike -ł	муж 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD06103	ike -ł săm	муж 3SG сердце	p	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+MD06201	in ike -ł -ən	этот мужчина 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	in	0	s	hum	iob	1	1
+MD06202	săm	сердце	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD06203	as	Обь	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD06204	as jiŋk -a	Обь вода DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+MD06301	jetn -a	вечер DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+MD06302	in xǫ -j -əł	этот мужчина STEM 3SG	i	obj	s	1	3s	dis	nul	nul	in	0	s	hum	obj	1	1
+MD06303	šiw -əł	вид 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	1	1
+MD06401	sij -əł	шум 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	0	1
+MD06601	kew -a	камень DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+MD06701	tom jɔx -ł -ał -ən	тот люди PL 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	nul	0	p	hum	iob	1	1
+MD06702	săm -əł	сердце 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+MD06801	xuw kur -əp iki	длинный нога ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+MD06802	kusi	дуга	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+MD06803	kusi	дуга	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1
+MD06901	săm	сердце	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+MD07001	in xǫ	этот мужчина	p	obj	s	0	n	n	nul	nul	in	0	s	hum	gen	1	1
+MD07002	in xǫ săm	этот мужчина сердце	p	obj	s	0	n	n	nul	nul	in	1	s	non	obj	1	1
+MD07003	jiŋk	вода	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+MD07004	xuw sapł -əł	длинный шея 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	non	obj	1	1
+MD07101	as	Обь	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD07102	as jiŋk -a	Обь вода DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+MD07103	păti -j -a	дно STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD07201	wǫn xon -əp ike -ł	большой живот ATTR мужчина 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	hum	obj	1	1
+MD07301	as	Обь	p	obj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD07302	as jiŋk	Обь вода	p	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+MD07401	wǫn xon -əp ike -ł -ən	большой живот ATTR мужчина 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	nul	0	s	hum	iob	1	1
+MD07402	as	Обь	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD07403	as jiŋk	Обь вода	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+MD07501	in xuw sapł -əł	этот длинный шея 3SG	p	obj	s	1	3s	dis	nul	nul	in	0	s	non	sbj	1	1
+MD07502	sapł -əł	шея 3SG	p	obj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+MD07503	wǫn sɔrt -ən	большой щука LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	1
+MD07504	săm	сердце	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+MD07601	wǫntər	выдра	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1
+MD07602	in jɔx -ən	этот люди LOC	i	sbj	s	0	n	n	loc	nul	in	0	s	hum	iob	1	1
+MD07701	sɔrt	щука	i	obj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+MD07801	in wǫntər	этот выдра	p	sbj	s	0	n	n	nul	nul	in	0	s	anm	sbj	1	1
+MD07901	śi sɔrt	этот щука	p	obj	s	0	n	n	nul	nul	si	0	s	anm	obj	1	1
+MD08001	wǫntər	выдра	p	obj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+MD08002	wǫn sɔrt	большой щука	p	obj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+MD08101	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+MD08102	in pupi sox -əp xǫ -j -əł -ən	этот медведь шкура ATTR мужчина STEM 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	in	0	s	hum	iob	1	1
+MD08103	in wǫn sɔrt	этот большой щука	p	sbj	s	0	n	n	nul	nul	in	0	s	anm	gen	1	1
+MD08104	in wǫn sɔrt tԑpəl -əł	этот большой щука живот 3SG	p	sbj	s	1	3s	bod	nul	nul	in	1	s	non	sbj	1	1
+MD08105	in săm	этот сердце	p	sbj	s	0	n	n	nul	nul	in	0	s	non	sbj	1	1
+MD08201	kew -a	камень DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+MD08202	xǫ -j -əł	мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD08203	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+MD08204	pupi săx -əp xǫ -j -əł -ən	медведь шуба ATTR мужчина STEM 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	nul	0	s	hum	iob	1	1
+MD08205	săm -əł	сердце 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+MD08206	iśi tăxi -j -a	место STEM DAT	p	sbj	s	0	n	n	dat	nul	isi	0	s	non	iob	1	1
+MD08301	xuw kur -əp xǫ	длинный нога ATTR мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+MD08401	kew	Урал	p	sbj	p	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+MD08402	łapət xăšap	семь полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD08403	wǫn xăšap	большой полог	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD08404	łapət xăšap wǫn xăšap xǫ	семь полог большой полог мужчина	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	obj	1	1
+MD08501	in xǫ	этот мужчина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD08502	kew	Урал	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD08503	kew muw -a	Урал земля DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+MD08504	kew	гора	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+MD08601	in łǫxs -əł	этот друг 3SG	p	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD08602	jɔx	люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+MD08701	ime -ł	жена 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+MD08801	wԑš	лицо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+MD08802	sox -ən	ткань LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+MD08803	xǫ -j -əł	мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD08804	muw -əł -a	земля 3SG DAT	p	sbj	s	1	3s	oth	dat	nul	nul	0	s	non	iob	1	1
+MD09101	tǫrəm	бог	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	prd	1	1
+MD09301	xuw kur -əp ike -ł	длинный нога ATTR мужчина 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD09302	tăxi -j -a	место STEM DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD09401	in ike -ł	этот мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+MD09701	mԑŋk	Мэнк	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+MD09702	mԑŋk iki	Мэнк мужчина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	prd	1	1
+MD09801	in jɔx	этот люди	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD09901	wǫn sapəł	большой шея	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD09902	wǫn sapəł ike -ł	большой шея мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD09903	tăxe -ł -a	место 3SG DAT	p	sbj	s	1	3s	dis	dat	nul	nul	0	s	non	iob	1	1
+MD10101	jiŋk -ət	вода PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	non	pob	0	0
+MD10102	muw -ət	земля PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	non	pob	0	0
+MD10201	wǫn xon -əp iki	большой живот ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+MD10202	wǫn xon -əp iki muw -a	большой живот ATTR мужчина земля DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+MD10501	xiń	бог болезни	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+MD10502	xiń iki	бог болезни мужчина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	prd	1	1
+MD10601	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+MD10602	pupi săx -əp ike -ł	медведь шуба ATTR мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD10603	tăxi -j -a	место STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+MD10901	in xǫ	этот мужчина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+MD11001	jԑm wɔš	святой город	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD11002	jԑm wɔš iki	святой город мужчина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	prd	1	1
+MD11101	xuł	рыба	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+MD11102	xuł sox	рыба ткань	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	0
+MD11103	xuł sox săx -əp ike -ł	рыба ткань шуба ATTR мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+MD11301	jiŋk	вода	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+MD11302	jiŋk wǫrt	вода бог	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	gen	1	1
+MD11303	jiŋk wǫrt iki	вода бог мужчина	i	sbj	s	0	n	n	nul	nul	nul	1	s	hum	prd	1	1
+MD11401	imi	жена	i	sbj	s	0	n	n	psp	nul	nul	0	s	hum	pob	1	1
+MD11501	aŋke -ł pa aśe -ł	мать 3SG и отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD11502	aŋke -ł	мать 3SG	p	sbj	s	i	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD11503	aśe -ł	отец 3SG	p	sbj	s	i	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD11504	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD11505	xǫłəm xɔt suŋ -əł	три дом угол 3SG	p	sbj	s	1	3s	own	nul	nul	nul	1	s	non	sbj	0	1
+MD11506	i tut	один огонь	p	sbj	s	0	n	n	nul	nul	i	0	s	non	sbj	0	1
+MD11507	sԑm -ən	глаз LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD11601	łuŋ -ən	лето LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD11602	jiŋk	вода	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+MD11603	sԑm -ən	глаз LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD11604	tut	огонь	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+MD11605	tăł -ən	зима LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD11606	łɔś	снег	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+MD11607	sԑm -ən	глаз LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD11701	tut -ən	огонь 2/3DU	p	sbj	s	1	2/3d	own	nul	nul	nul	0	s	non	sbj	1	1
+MD11801	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	gen	1	1
+MD11802	aśe -ł iki	отец 3SG мужчина	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	sbj	1	1
+MD11901	toxł -əŋ tarəm -ən	крыло ATTR сила LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+MD11902	kur -əŋ tarəm -ən	нога ATTR сила LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+MD11903	aj pox -ij -ԑmən	маленький сын DIM 1DU	p	sbj	s	1	1d	fam	nul	dim	nul	0	s	hum	sbj	1	1
+MD11904	tut	огонь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD11905	tut sԑm	огонь глаз	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+MD12101	xǫłəm xătł -a	три день DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+MD12103	ԑŋr -ən moł -ən	память 2PL улыбка 2PL	p	sbj	s	1	2p	oth	nul	nul	nul	0	s	non	sbj	1	1
+MD12102	ԑŋr -ən	память 2PL	p	sbj	s	1	2p	oth	nul	nul	nul	0	s	non	sbj	1	1
+MD12103	moł -ən	улыбка 2PL	p	sbj	s	1	2p	oth	nul	nul	nul	0	s	non	sbj	1	1
+MD12201	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+MD12202	in pox -əł -ən	этот мальчик 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	in	0	s	hum	iob	1	1
+MD12203	nǫm -ən	верх LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+MD12204	mɔlśi	малица	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD12205	mɔlśi kon -ł -ał	малица край PL 3SG	p	obj	s	1	3s	own	nul	nul	nul	1	p	non	obj	1	1
+MD12301	ime -ł	жена 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+MD12302	meń -əł -a	невестка 3SG DAT	p	sbj	s	1	3s	fam	dat	nul	nul	0	s	hum	iob	1	1
+MD12303	wuśa	приветствие	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+MD12304	ԑtər -ŋən păłəŋ -ŋən	облако DU туча DU	i	sbj	s	0	n	n	nul	nul	nul	0	d	non	gen	0	0
+MD12305	ԑtər -ŋən	облако DU	i	sbj	s	i	n	n	nul	nul	nul	0	d	non	gen	0	0
+MD12306	păłəŋ -ŋən	туча DU	i	sbj	s	i	n	n	nul	nul	nul	0	d	non	gen	0	0
+MD12307	ԑtər -ŋən păłəŋ -ŋən wus -ən	облако DU туча DU дырка LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	0
+MD12308	oxšam	платок	i	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+MD12309	oxšam kimł -əł	платок край 3SG	i	obj	s	1	3s	own	nul	nul	nul	1	s	non	obj	1	1
+MD12401	śi śuń -əł xǫł -əł -ən	этот счастье 3SG благосостояние 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	si	0	s	non	iob	1	1
+MD12402	śuń -əł	счастье 3SG	i	sbj	s	i	3s	dis	nul	nul	nul	0	s	non	iob	1	1
+MD12403	xǫł -əł -ən	благосостояние 3SG LOC	i	sbj	s	i	3s	dis	loc	nul	nul	0	s	non	iob	1	1

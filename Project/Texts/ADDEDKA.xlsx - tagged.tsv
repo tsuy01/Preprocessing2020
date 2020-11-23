@@ -1,0 +1,35 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+KA00001	rutʼśə -ti xătł -ət	отдыхать IPFV.PART день PL	n	n	s	0	n	n	nul	nul	nul	0	p	non	nul	0	1
+KA00101	miša -j -en	Миша STEM 2SG	i	sbj	a	1	2s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KA00102	ăškɔla -j -n	школа STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KA00103	tɔwi	весна	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KA00104	tɔwi kăńikola	весна каникулы	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	1
+KA00105	rutʼśə -ti xătł -ət	отдыхать IPFV.PART день PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	non	pob	0	1
+KA00201	rǫtna -ł -ał	родня PL 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	p	hum	pob	0	1
+KA00202	wɔš	город	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+KA00203	wut kǫrt -eł -a	далекий от воды деревня 3PL DAT	p	sbj	s	1	3p	dis	dat	nul	nul	0	s	non	iob	0	1
+KA00204	wut kǫrt -eł -a łԑməŋ	Лямин	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KA00205	wut kǫrt -eł -a łԑməŋ joxan -a	Лямин река DAT	p	sbj	p	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KA00301	xɔšəm xuw tɔwi	весна	n	n	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KA00302	xɔšəm xuw tɔwi xătł -ət	теплый длинный весна день PL	n	n	s	0	n	n	nul	nul	nul	1	p	non	nul	1	1
+KA00401	anna	Анна	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	app	1	1
+KA00402	anna ɔrtnԑ -ŋəł	Анна племянница DU.POSS	i	sbj	s	1	dp	fam	psp	nul	nul	0	dp	hum	pob	1	1
+KA00501	miša -j -en -ən	Миша STEM 2SG LOC	i	sbj	a	1	2s	dis	loc	nul	nul	0	s	hum	iob	1	1
+KA00601	ɔrtnԑ -ŋəł	племянница DU.POSS	i	sbj	s	1	dp	fam	nul	nul	nul	0	dp	hum	gen	1	1
+KA00602	ɔrtnԑ -ŋəł nǫpt -əł	племянница DU.POSS возраст 3SG	i	sbj	s	1	3s	oth	nul	nul	nul	1	s	non	sbj	1	1
+KA00603	ńiwəł ɔł -a	восемь год DAT	p	sbj	s	0	n	n	dat	nul	nul	0	nu	non	iob	0	0
+KA00701	wułe -ŋ ǫxəł -n	олень ATTR нарта LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KA00801	miša -j -en	Миша STEM 2SG	i	sbj	a	1	2s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KA00802	wułe -ŋ ǫxəł -n	олень ATTR нарта LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KA00803	tut	огонь	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KA00804	tut jux	огонь дерево	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	0	1
+KA00901	poł	запруда	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KA00902	wer -a	дело DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KA00903	aj ope -ł	маленький сестра 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KA01001	anna	Анна	i	obj	a	0	n	n	nul	nul	nul	0	s	hum	app	1	1
+KA01002	anna ɔrtnԑ -ŋən	Анна племянница DU	i	obj	s	0	n	n	nul	nul	nul	0	d	hum	obj	1	1
+KA01003	pǫn	гымга	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KA01004	xuł	рыба	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	0
+KA01101	rutʼśə -ti xătł -ət	отдыхать IPFV.PART день PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	non	sbj	1	1
+KA01102	pora -j -a	время STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KA01201	m lɔzʼamɔw	М. Лозямов	n	n	a	0	n	n	psp	nul	nul	0	s	hum	pob	1	1

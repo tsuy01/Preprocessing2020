@@ -1,0 +1,31 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+DY00001	xɔŋra	дятел	n	n	s	0	n	n	nul	nul	nul	0	s	anm	nul	1	1
+DY00101	puš	раз	p	sbj	s	0	n	n	nul	nul	i	0	s	non	attr	0	1
+DY00102	puš sus -n	раз осень LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	attr	0	1
+DY00103	puš sus -n min łǫxs -ԑm -n	раз осень LOC мы.DU друг 1SG LOC	p	sbj	s	1	1s	rel	loc	nul	nul	1	s	hum	iob	0	1
+DY00104	puš sus -n min łǫxs -ԑm -n wǫnt -a	раз осень LOC мы.DU друг 1SG LOC лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+DY00105	puš sus -n min łǫxs -ԑm -n wǫnt -a xuł	раз осень LOC мы.DU друг 1SG LOC лес DAT рыба	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+DY00106	noməs	мысль	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+DY00201	śi sus -en	этот осень 2SG	i	sbj	s	1	2s	dis	nul	nul	si	0	s	non	subj	1	1
+DY00301	łɔńś	снег	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	subj	0	1
+DY00401	nԑrsa	Нерса	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	app	1	1
+DY00402	nԑrsa kǫrt -a	Нерса деревня DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+DY00403	traktor	трактор	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	subj	1	1
+DY00404	jǫš	дорога	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	1
+DY00501	wakwus	Ваквус	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	app	1	1
+DY00502	wakwus joxan	Ваквус река	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	1	1
+DY00503	jux	дерево	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	psp	0	1
+DY00504	min wǫn piti toxł -əŋ	мы.DU большой черный крыло ATTR	p	sbj	s	0	n	n	nul	atr	nul	0	s	anm	attr	0	0
+DY00505	min wǫn piti toxł -əŋ wɔj	мы.DU большой черный крыло ATTR зверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+DY00601	jux	дерево	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+DY00701	noməs	мысль	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+DY00702	śi wɔj	этот зверь	p	sbj	s	0	n	n	psp	nul	si	0	s	anm	psp	1	1
+DY00801	śit piti xɔŋra	это черный дятел	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	pred	1	1
+DY00901	śiməś toxł -əŋ	такой крыло ATTR	i	sbj	s	0	n	n	nul	atr	nul	0	s	non	attr	0	0
+DY00902	śiməś toxł -əŋ wɔj	такой крыло ATTR зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	subj	0	0
+DY00903	śiməś toxł -əŋ wɔj pa muw -ən	такой крыло ATTR зверь другой земля LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	0
+DY00904	muŋ muw -ew -n	мы земля 1PL LOC	i	sbj	s	1	1p	oth	loc	nul	nul	0	s	non	iob	1	1
+DY01001	taməś wɔj	такой зверь	i	sbj	s	0	n	n	nul	nul	tamys	0	s	anm	obj	0	0
+DY01101	o	О.	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1
+DY01102	o pɔtpɔt	О. Потпот	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1
+DY01103	o pɔtpɔt kasəm	О. Потпот Казым	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1

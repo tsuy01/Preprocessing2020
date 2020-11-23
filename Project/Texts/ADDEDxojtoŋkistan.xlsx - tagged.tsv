@@ -1,0 +1,189 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+HUJ00001	xojtoŋkistan	Хуйтункистан	n	n	s	0	n	n	nul	nul	nul	0	s	non	nul	1	1
+HUJ00102	jux -łi ńǫrəm	дерево CAR болото	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+HUJ00104	pǫm -łi ńǫrəm	трава CAR болото	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ00105	xojtoŋkistan	Хуйтункистан	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ00106	xojtoŋkistan iki	Хуйтункистан мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ00201	ox -ł -əŋ	голова 3SG ATTR	p	sbj	s	1	3s	dis	nul	atr	nul	0	s	non	atr	0	1
+HUJ00202	ox -ł -əŋ xɔt -ən	голова 3SG ATTR дом LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+HUJ00301	łapətjaŋ puš	семьдесят раз	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ00302	ńuki	шкура	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+HUJ00303	xɔt	дом	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ00401	jiŋk wɔj	вода зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ00402	jiŋk wɔj pɔrxa -j -əŋ pox	вода зверь мужская верхняя одежда STEM ATTR сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+HUJ00403	łapət ńar xɔpti	семь белый олень-бык	i	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	obj	0	1
+HUJ00404	muw xɔr	земля бык	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+HUJ00405	muw xɔr ɔŋət	земля бык кость мамонта	i	sbj	s	0	n	n	nul	nul	nul	1	s	anm	atr	0	0
+HUJ00406	muw xɔr ɔŋət ɔłʼ -əp ǫxəł	земля бык кость мамонта полозья ATTR нарта	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+HUJ00501	ǫxəł	нарта	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ00502	ǫxəł kur -ł -ał	нарта ножка PL 3SG	i	sbj	s	1	3s	bod	nul	nul	nul	1	p	non	sbj	1	1
+HUJ00503	muw xɔr	земля бык	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+HUJ00504	muw xɔr ɔŋət	земля бык кость мамонта	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	prd	0	0
+HUJ00601	in ike -n	этот мужчина 2SG	i	sbj	s	1	2s	dis	nul	nul	in	0	s	hum	sbj	1	1
+HUJ00602	jaŋ łaraś	десять сундук	i	sbj	s	0	n	n	nul	nul	nul	0	nu	non	obj	0	1
+HUJ00701	jiŋk wɔj	вода зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ00702	jiŋk wɔj pɔrxa -j -əŋ pox -əł	вода зверь мужская верхняя одежда STEM ATTR сын 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ00703	xătəł	день	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+HUJ00704	piti woxsar	черный лиса	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	0
+HUJ00705	ńoxəs	соболь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	0
+HUJ00801	i xătəł	один день	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ00901	păłəŋ	туча	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ00902	păłəŋ piti kiməł	туча черный край	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+HUJ01001	taś	стадо	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+HUJ01002	taś ɔłŋ -əł	начало 3SG	i	sbj	s	1	3s	oth	nul	nul	nul	0	s	non	atr	0	0
+HUJ01003	śorəs -əŋ taś	тысяча ATTR стадо	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+HUJ01004	ɔłŋ -əł	конец 3SG	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ01005	sɔt -əŋ taś 	сто ATTR стадо 	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+HUJ01101	łapət ńar xɔpte -ł -ən	семь белый олень-бык 3SG LOC	i	sbj	s	1	3s	own	loc	nul	nul	0	nu	anm	iob	1	1
+HUJ01102	taś	стадо	i	sbj	s	0	n	n	psp	nul	nul	0	s	anm	pob	1	1
+HUJ01201	sǫx šăš nԑr -əŋ waś keł -əł	осетр спина мозг ATTR тонкий веревка 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+HUJ01202	ǫxł -əł	нарта 3SG	i	sbj	s	1	3s	own	psp	nul	nul	0	s	non	iob	1	1
+HUJ01301	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ01302	owəs jorən	север ненец	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ01303	aj wǫrt -leŋke -ł	маленький Ворт DIM 3SG	p	sbj	s	1	3s	dis	nul	dim	nul	0	s	hum	sbj	1	1
+HUJ01401	in xǫ -j -əł	этот мужчина STEM 3SG	i	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+HUJ01501	jux -łi ńǫrəm	дерево CAR болото	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ01502	pǫm -łi ńǫrəm	трава CAR болото	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ01503	jiŋk wɔj pɔrxa -j -əŋ pox	вода зверь мужская верхняя одежда STEM мальчик	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ01504	łałʼ -a	война DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+HUJ01505	mɔj -a	гость DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+HUJ01506	łałʼ -a moj mɔj -a 	война DAT или гость DAT 	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+HUJ01601	ma kԑm -ԑm	я образ 1SG	i	sbj	s	1	1s	oth	nul	nul	nul	1	s	non	atr	0	0
+HUJ01602	ma kԑm -ԑm ot	я образ 1SG вещь	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ01603	łałʼ -əŋ xor	война ATTR образ	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ01604	xǫ	мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ01605	mɔj -əŋ xor	гость ATTR образ	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ01606	xǫ	мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ01701	owəs	север	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ01702	in owəs jorən	этот север ненец	i	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+HUJ01703	aj wǫrt -əł	маленький Ворт 3SG	i	sbj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+HUJ01801	muŋ wǫn taś -ew	мы большой стадо 1PL	p	sbj	s	1	1p	own	nul	nul	nul	1	s	anm	sbj	1	1
+HUJ01901	jiŋk wɔj	вода зверь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ01902	jiŋk wɔj pɔrxa -j -əŋ pox	вода зверь мужская верхняя одежда STEM ATTR мальчик	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ01903	łapət puš tăxti	семь раз шкура оленя, используемая для постели	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ01904	ɔłŋ -əł	конец 3SG	p	sbj	s	1	3s	prt	nul	nul	nul	0	s	non	atr	1	1
+HUJ01905	ɔłŋ -əł nek -əŋ waś keł	конец 3SG узел ATTR тонкий веревка	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ02001	taś	стадо	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+HUJ02101	taś	стадо	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+HUJ02201	tińśaŋ -əł	аркан 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	non	obj	1	1
+HUJ02401	taś	стадо	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+HUJ02501	mărəŋ sij -ən	грохочущий звук LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+HUJ02502	tińśaŋ -əł	аркан 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	1	1
+HUJ02601	tińśaŋ -əł	аркан 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	non	obj	1	1
+HUJ02701	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ02702	owəs jorən	север ненец	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+HUJ02703	owəs jorən wǫrt -en	север ненец Ворт 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	gen	1	1
+HUJ02704	owəs jorən wǫrt -en amp	север ненец Ворт 2SG собака	p	sbj	s	0	n	n	nul	nul	nul	1	s	anm	sbj	1	1
+HUJ02801	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ02802	in owəs jorən	этот север ненец	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+HUJ02803	in owəs jorən aj wǫrt -leŋke -ł	этот север ненец маленький Ворт DIM 3SG	p	sbj	s	1	3s	dis	nul	dim	in	0	s	hum	sbj	1	1
+HUJ02901	ɔłəŋ	край	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+HUJ02902	wǫn ɔłəŋ	большой край	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+HUJ03001	ǫxł -əŋ	нарта ATTR	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ03201	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ03202	in owəs jorən	этот север ненец	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+HUJ03203	in owəs jorən aj wǫrt -leŋke -ł	этот север ненец маленький Ворт DIM 3SG	p	sbj	s	1	3s	dis	nul	dim	in	0	s	hum	sbj	1	1
+HUJ03204	xǫłəm wur -əp łałʼ jux narԑp	три грань ATTR война дерево копье	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ03301	jiŋk wɔj	вода зверь	i	obj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ03302	jiŋk wɔj pɔrxa -j -əŋ pox -əł	вода зверь мужская верхняя одежда STEM ATTR сын 3SG	i	obj	s	1	3s	dis	nul	nul	nul	0	s	hum	obj	1	1
+HUJ03401	ox pǫšx -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+HUJ03402	pa	море	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ03403	pa śɔrəs xomp -ət -a	море волна PL DAT	i	sbj	s	0	n	n	dat	nul	nul	0	p	non	iob	0	0
+HUJ03501	in łałʼ narԑp -əł	этот война копье 3SG	p	obj	s	1	3s	dis	nul	nul	in	0	s	non	obj	1	1
+HUJ03601	jiŋk wɔj	вода зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ03602	in jiŋk wɔj pɔrxa -j -əŋ pox -leŋke -ł	этот вода зверь мужская верхняя одежда STEM ATTR сын DIM  3SG	i	sbj	s	1	3s	dis	nul	dim	in	0	s	hum	sbj	1	1
+HUJ03603	karti	железо	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ03604	karti aŋkəł	железо столб	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ03605	wox	медь	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ03606	wox aŋkəł	медь столб	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+HUJ03701	jiŋk wɔj	вода зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	atr	0	0
+HUJ03702	in jiŋk wɔj pɔrxa -j -əŋ pox -əł	этот вода зверь мужская верхняя одежда STEM ATTR сын 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ03801	ǫxəł -a	нарта DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+HUJ03901	in łapət tăxte -ł	этот семь шкура оленя, используемая для постели 3SG	p	sbj	s	1	3s	dis	psp	nul	nul	0	nu	non	pob	1	1
+HUJ03902	muw xɔr	земля бык	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+HUJ03903	muw xɔr ɔŋət	земля бык кость мамонта	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	atr	0	0
+HUJ03904	xǫłəm wur -əp narԑp	три грань ATTR копье	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ04101	ox pǫšx -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+HUJ04102	xomp	волна	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+HUJ04103	xomp śuŋk -ət -ən	волна гребень PL LOC	i	sbj	s	0	n	n	loc	nul	nul	1	p	non	iob	0	0
+HUJ04104	piti pošəx ptek	черный птенец	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	iob	0	0
+HUJ04105	piti pošəx pɔjtek	черный птенец куропатка	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	iob	0	0
+HUJ04301	ox pǫšx -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+HUJ04302	śɔrəs	море	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ04303	śɔrəs xomp -ət -a	море волна PL DAT	i	sbj	s	0	n	n	dat	nul	nul	0	p	non	obj	0	0
+HUJ04401	owəs	север	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ04402	owəs jorən	север ненец	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	atr	0	0
+HUJ04403	ike -t	мужчина PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	hum	sbj	1	1
+HUJ04501	wǫn wԑr	большой дело	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ04601	tǫrm -əł	небо 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	1	1
+HUJ04602	wɔtas -a	метель DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+HUJ04701	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ04702	owəs jorn -ət	север ненец PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	hum	sbj	1	1
+HUJ04703	xɔt -ł -ał -a	дом PL 3PL DAT	p	sbj	s	1	3p	own	dat	nul	nul	0	p	non	iob	1	1
+HUJ04801	ǫxł -əł -a	нарта 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+HUJ04802	ǫxł -əł -a	нарта 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+HUJ05001	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ05002	owəs jorən	север ненец	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+HUJ05003	owəs jorən aj wǫrt	север ненец маленький Ворт	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+HUJ05004	owəs jorən aj wǫrt ewi	север ненец маленький Ворт дочь	p	sbj	s	0	n	n	nul	nul	nul	1	s	hum	sbj	1	1
+HUJ05005	xɔt	дом	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ05101	in nԑŋ -əł	этот женщина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ05102	xɔt -əł	дом 3SG	p	sbj	s	1	3s	own	psp	nul	nul	0	s	non	pob	1	1
+HUJ05201	ǫxł -əł -a	нарта 3SG DAT	p	obj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+HUJ05202	łapət ńar xɔpte -ł	семь белый олень-бык 3SG	p	sbj	s	1	3s	own	nul	nul	nul	0	nu	anm	obj	1	1
+HUJ05301	jux -łi ńǫrəm	дерево CAR болото	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ05302	pǫm -łi ńǫrəm	трава CAR болото	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ05601	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+HUJ05602	aśe -ł iki -j -ən	отец 3SG мужчина STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	1	1
+HUJ05801	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ05802	jǫxł -əł	лук 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+HUJ05803	sɔt ńɔł	сто стрела	p	sbj	s	0	n	n	nul	nul	nul	0	nu	non	obj	1	1
+HUJ05804	sămԑ -ŋ tiwət	ржавчина ATTR колчан	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+HUJ05901	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ05902	owəs jorn -ət	север ненец PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	hum	sbj	1	1
+HUJ05903	łałʼ -a	война DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+HUJ06001	in pɔrxa -j -əł	этот мужская верхняя одежда STEM 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+HUJ06002	ime -ł -ən	жена 3SG LOC	p	obj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+HUJ06003	xɔt	дом	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ06101	owəs	север	i	obj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ06102	in owəs jorən	этот север ненец	i	obj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1
+HUJ06103	in owəs jorən ar ike -ł	этот север ненец много муж 3SG	i	obj	s	1	3s	dis	nul	nul	in	0	s	hum	sbj	1	1
+HUJ06104	xɔt	дом	i	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ06105	xɔt tij	дом конец	i	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+HUJ06106	tińśaŋ -ən	аркан LOC	i	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+HUJ06301	aśe -ł iki	отец 3SG мужчина	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ06302	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ06303	xɔt tij	дом конец	p	sbj	s	0	n	n	psp	nul	nul	1	s	non	pob	1	1
+HUJ06304	i kur	один нога	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ06305	i kur puŋł -əł	один нога бок 3SG	p	sbj	s	1	3s	prt	nul	nul	nul	0	s	non	sbj	1	1
+HUJ06306	šǫp -a	кусок DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+HUJ06401	ime -ł	жена 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ06501	jiŋk wɔj	вода зверь	p	obj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ06502	jiŋk wɔj pɔrxa -j -əł	вода зверь мужская верхняя одежда STEM 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+HUJ06601	pɔrxa -j -əł	мужская верхняя одежда STEM 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+HUJ06602	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ06603	xɔt tij	дом конец	p	sbj	s	0	n	n	psp	nul	nul	1	s	non	pob	1	1
+HUJ06701	łǫxs -əł	друг 3SG	p	sbj	s	1	3s	rel	psp	nul	nul	0	s	hum	pob	1	1
+HUJ06702	łǫxs -əł	друг 3SG	p	sbj	s	1	3s	rel	nul	nul	nul	0	s	hum	obj	1	1
+HUJ06801	in jorn -ət	этот ненец PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	hum	sbj	1	1
+HUJ06802	xɔt -əł	дом 3SG	p	sbj	s	1	3s	own	nul	nul	nul	0	s	non	sbj	1	1
+HUJ06803	tǫrəm -a	небо DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+HUJ06804	i kurek	один утка	p	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	gen	0	0
+HUJ06805	i kurek sapəł	один утка шея	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	0	0
+HUJ06901	owəs	север	p	obj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ06902	in owəs jorən	этот север ненец	p	obj	s	0	n	n	nul	nul	in	0	s	hum	obj	1	1
+HUJ06903	in owəs jorən ar iki	этот север ненец много мужчина	p	obj	s	0	n	n	nul	nul	in	0	nu	hum	obj	1	1
+HUJ06904	kăt xǫ -j -ən	два мужчина STEM 2/3DU	p	obj	s	1	2/3d	dis	nul	nul	nul	0	nu	hum	sbj	1	1
+HUJ07001	in łǫxs -əł	этот друг 3SG	p	sbj	s	1	3s	rel	nul	nul	in	0	s	hum	sbj	1	1
+HUJ07101	owəs	север	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ07102	owəs jorən	север ненец	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ07103	owəs jorən ar ike -ł	север ненец много мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+HUJ07104	tăxi -j -a	место STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+HUJ07201	śɔrəs	море	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+HUJ07202	i xǫ	один мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	1	1
+HUJ07203	xǫłəm piti xɔptərka	три черный яловая важенка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+HUJ07301	tǫtʼłəm nԑŋ -əł	бывший женщина 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	prd	1	1
+HUJ07401	in ot -əł	этот вещь 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	non	obj	1	1
+HUJ07501	owəs	север	p	obj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+HUJ07502	owəs śɔrəs	север море	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+HUJ07503	owəs śɔrəs kiməł	север море берег	p	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1

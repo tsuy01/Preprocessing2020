@@ -1,0 +1,14 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF		
+MZ00001	aj wɔj -leŋki	маленький зверь DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	non	0	0	ок	Тут сложно, мб для названий свои правила с реф статусом
+MZ00101	aŋke -n	мать 2SG	i	sbj	s	1	2s	fam	nul	nul	nul	0	s	anm	attr	1	1	ок	Но тут непонятно, мб это как бы "шаблонная" мать.
+MZ00102	aŋke -n jasəŋ	мать 2SG слово	i	obj	s	0	n	n	nul	nul	nul	1	s	non	obj	0	1	ок	Мб слова нереферентны
+MZ00103	ox -ije -n	голова DIM 2SG	i	obj	s	1	2s	bod	nul	dim	nul	0	s	non	obj	1	1	ок	Но тут акрос зе борд мувмент?? А аспект у разных клауз разный
+MZ00104	aj wɔj -leŋki -j -n	улице маленький зверь DIM STEM	p	sbj	s	0	n	n	stem	зверь	nul	0	s	anm		1	1	??	
+MZ00201	ox -ԑm	голова 1SG	p	sbj	s	1	1s	bod	nul	nul	nul	0	s	non	sbj	1	1	ок	
+MZ00301	nԑməłti wɔj	ничто зверь	i	sbj	s	0	n	n	nul	nul	nemylti	0	s	anm	sbj	0	0	ок	Вставил демонстратив вне списка.
+MZ00401	aj wɔj -leŋki	маленький зверь DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	0	0	ок	Не уверен в виде.
+MZ00402	aj wɔj -leŋki ox -ԑm -a	маленький зверь DIM голова 1SG DAT	i	sbj	s	1	1s	bod	dat	nul	nul	0	s	non	iob	1	1	ок	
+MZ00501	w	В	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+MZ00502	w n	В Н	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+MZ00503	w n jernixɔwa	В Н Ерныхова	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		
+MZ00504	w n jernixɔwa amńa	В Н Ерныхова Амня	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm		1	1		

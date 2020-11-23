@@ -1,0 +1,36 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF		
+LL00001	ńăłməŋ woxsar	лживый лиса	n	sbj	s	0	n	n	nul	nul	nul	0	s	anm	nul	1	1		
+LL00101	xănti	ханты	n	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1		
+LL00102	xănti mir	ханты народ	n	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1		
+LL00103	xănti mir mɔńś	ханты народ сказка	n	sbj	s	0	n	n	nul	nul	nul	1	s	non	nul	0	0		
+LL00201	woxsar	лиса	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1		
+LL00202	woxsar iki	лиса мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1		
+LL00301	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1		
+LL00302	kǫrt woš	деревня чага	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1		
+LL00303	tonti	береста	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0		
+LL00304	tonti pԑlək	береста сторона	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	0	1		
+LL00401	pupe -ł	медведь 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	anm	obj	0	1		
+LL00404	aj wɔj -ət šɔwər -ł -ał	маленький зверь PL заяц PL 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	p	anm	obj	0	1		
+LL00403	aj wɔj -ət	маленький зверь PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	anm	obj	0	1		i?????
+LL00404	šɔwər -ł -ał	заяц PL 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	p	anm	obj	0	1		
+LL00501	tăxԑ -m	место 1SG	i	sbj	s	1	1s	own	nul	nul	nul	0	s	non	sbj	1	1		
+LL00701	xɔt -əł -a	дом 3SG DAT	p	obj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1		
+LL00801	pupe -ł	медведь 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	anm	obj	1	1		
+LL00802	xɔt	дом	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1		
+LL00803	xɔt păti	дом зад	p	obj	s	0	n	n	psp	nul	nul	1	s	non	pob	1	1		
+LL00901	šɔwər -ł -ał pa aj wɔj -ł -ał	заяц PL 3SG и маленький зверь PL 3PL	p	sbj	s	1	3p	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL00902	šɔwər -ł -ał	заяц PL 3SG	p	sbj	s	i	3s	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL00903	aj wɔj -ł -ał	маленький зверь PL 3PL	p	sbj	s	i	3p	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL00904	ɔw	дверь	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1		
+LL01001	aj wɔj -ł -ał šɔwər -ł -ał	маленький зверь PL 3SG заяц PL 3SG	i	obj	s	1	3s	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL01002	aj wɔj -ł -ał	маленький зверь PL 3SG	i	obj	s	i	3s	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL01003	šɔwər -ł -ał	заяц PL 3SG	i	obj	s	i	3s	dis	nul	nul	nul	0	p	anm	obj	1	1		
+LL01101	pupe -ł	медведь 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	anm	sbj	1	1		
+LL01201	moj -ł -an	что PL 2SG	p	sbj	q	1	2s	dis	nul	nul	nul	0	p	non	obj	0	1		
+LL01301	sǫł -ł -am	кишка PL 1SG	p	sbj	s	1	1s	bod	nul	nul	nul	0	p	non	obj	1	1		
+LL01302	sǫł -ł -am	кишка PL 1SG	i	sbj	s	1	1s	bod	nul	nul	nul	0	p	non	obj	1	1		
+LL01401	wǫntər	кишечник	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1		
+LL01402	wǫntər ɔłŋ -en	кишечник конец 2SG	p	obj	s	1	2s	prt	psp	nul	nul	1	s	non	pob	1	1		
+LL01403	sǫł -ł -an	кишка PL 2SG	p	obj	s	1	2s	bod	nul	nul	nul	0	p	non	obj	1	1		
+LL01501	pupe -ł	медведь 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	anm	obj	1	1		
+LL01601	śi xǫł -əł -n	этот благосостояние 3SG LOC	i	sbj	s	1	3s	own	loc	nul	si	0	s	non	iob	1	1		

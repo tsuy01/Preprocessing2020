@@ -1,0 +1,432 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+KS00001	śempər	щемпэр	n	n	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS00002	śempər kew	щемпэр камень	n	n	p	0	n	n	nul	nul	nul	0	s	non	nul	1	1
+KS00101	i xǫ	мужчина	i	sbj	s	0	n	n	nul	nul	i	0	s	hum	sbj	0	1
+KS00102	jiwewe -ł -na	сводная сестра 3SG LOC	i	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS00201	i xătł -a	день DAT	p	sbj	s	0	n	n	dat	nul	i	0	s	non	iob	0	1
+KS00202	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS00203	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS00301	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS00401	łaŋki	белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+KS00402	ńoxəs	соболь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+KS00501	ox -ł -ən sԑm -ł -ən	голова 3SG 2/3DU глаз 3SG 2/3DU	p	sbj	s	1	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS00502	ox -ł -ən	голова 3SG 2/3DU	p	sbj	s	i	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS00503	sԑm -ł -ən	глаз 3SG 2/3DU	p	sbj	s	i	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS00601	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS00701	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS00702	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS00801	ńoxəs	соболь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1
+KS00802	łaŋki	белка	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1
+KS00901	jetn -a	вечер DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS00902	ox -ł -ən sԑm -ł -ən	голова 3SG 2/3DU глаз 3SG 2/3DU	p	sbj	s	1	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS00903	ox -ł -ən	голова 3SG 2/3DU	p	sbj	s	i	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS00904	sԑm -ł -ən	голова 3SG 2/3DU глаз 3SG 2/3DU	p	sbj	s	i	2/3d	bod	nul	nul	nul	0	s	non	obj	1	1
+KS01001	i xătł -a	один день DAT	p	sbj	s	0	n	n	dat	nul	i	0	s	non	iob	0	1
+KS01101	jiwpox -əł	сводный брат DAT	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS01102	xăr -a	место DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS01103	jiwewe -ł	сводная сестра 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS01104	i xǫ	один мужчина	p	sbj	s	0	n	n	nul	nul	i	0	s	hum	sbj	0	1
+KS01201	wuśa	приветствие	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS01301	ma ox -ԑm	я голова 1SG	p	obj	s	1	1s	bod	nul	nul	nul	1	s	non	obj	1	1
+KS01401	i nԑŋ -əł -ən	один женщина 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	i	0	s	hum	iob	1	1
+KS01402	ox -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+KS01501	i nԑŋ -əł	один женщина 3SG	i	obj	s	1	3s	dis	nul	nul	i	0	s	hum	sbj	1	1
+KS01601	jiwpox -ԑm	сводный брат 1SG	p	sbj	s	1	1s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS01701	i xǫ -j -əł	один мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	i	0	s	hum	sbj	1	1
+KS01702	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS01801	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS01901	xɔt -en	дом 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	sbj	1	1
+KS02001	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS02101	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS02102	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS02103	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS02201	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS02202	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS02203	iśi xǫ -j -əł	тот же мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	isi	0	s	hum	sbj	1	1
+KS02301	nԑŋ -əł	женщина 3SG	p	sbj	s	1	3s	dis	psp	nul	nul	0	s	hum	pob	1	1
+KS02401	ox -ԑm	голова 1SG	p	obj	s	1	1s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS02501	i nԑŋ -əł -ən	один женщина 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	i	0	s	hum	iob	1	1
+KS02502	ox -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	hum	sbj	1	1
+KS02601	i nԑŋ -əł	один женщина 3SG	p	sbj	s	1	3s	dis	nul	nul	i	0	s	hum	sbj	1	1
+KS02801	jiwpox -ԑm	сводный брат 1SG	p	sbj	s	1	1s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS02901	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS03001	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS03201	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS03202	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	non	sbj	1	1
+KS03203	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS03301	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS03302	xăr -a	поле DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS03303	iśi xǫ -j -əł	тот же мужчина 3SG	p	sbj	s	1	3s	dis	nul	nul	isi	0	s	hum	sbj	1	1
+KS03401	i nԑŋ -əł	один женщина 3SG	p	sbj	s	1	3s	dis	psp	nul	nul	0	s	hum	pob	1	1
+KS03601	ox -ԑm	голова 1SG	p	obj	s	1	1s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS03701	ox -əł	голова 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+KS03702	i nԑŋ -əł	один женщина 3SG	p	sbj	s	1	3s	dis	nul	nul	i	0	s	hum	sbj	1	1
+KS03901	jiwpox -ԑm	сводный брат 1SG	p	sbj	s	1	1s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS04001	i xǫ -j -əł	один мужчина STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KS04101	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS04201	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS04202	wԑŋ -əł	зять 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS04203	wuśa	приветствие	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS04301	wԑŋ -əł	зять 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS04302	wuśa	приветствие	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS04303	up -əł	тесть 3SG	i	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS04401	jiwewe -n	сводная сестра 2SG	p	obj	s	1	2s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS04501	jiwpox -əł	сводный брат 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS04601	xoti	что			q	0	n	n			nul	0	s	non	sbj	0	0
+KS04701	łuw kaš -əł	он желание 3SG	i	sbj	s	1	3s	oth	nul	nul	nul	1	s	non	sbj	0	0
+KS04901	i xǫ -j -əł -ən	один мужчина STEM 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	i	0	s	hum	iob	1	1
+KS04902	śԑp -a	карман DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS05101	łuw kǫrt -əł -a	он деревня 3SG DAT	p	sbj	s	1	3s	oth	dat	nul	nul	1	s	non	iob	1	1
+KS05102	łuw wɔš -əł -a	он город 3SG DAT	p	sbj	s	1	3s	oth	dat	nul	nul	1	s	non	iob	1	1
+KS05103	xɔt -əł -a	дом 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+KS05104	śԑp	карман	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+KS05105	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS05106	xɔt xăr -a	пол DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS05201	łowatte -ŋ nԑ	величина ATTR женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS05202	păłatte -ŋ nԑ	рост ATTR женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS05203	păłatte -ŋ nԑ păłatte -ł -ən	рост ATTR женщина рост 3SG LOC	p	sbj	s	1	3s	oth	loc	nul	nul	0	s	non	iob	0	0
+KS05301	ime -ł	жена 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS05302	pox -lԑ	сын DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	obj	0	1
+KS05401	pox -leŋke -ł	сын DIM 3SG	i	sbj	s	1	3s	fam	nul	dim	nul	0	s	hum	sbj	1	1
+KS05402	xătəł	солнце	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS05403	xătəł sor -ən	солнце свет LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS05404	xătəł	солнце	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS05405	xătəł mes -ən	солнце тепло LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS05501	łowatti -j -a	величина STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS05601	aŋke -ł -ən	мать 3SG LOC	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS05602	aŋke -ł -ən ɔntəp -ən	мать 3SG LOC люлька LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	0	1
+KS05701	ɔntəp -a	люлька DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS05702	pox -əł	мальчик 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KS05703	ɔntəp	люлька	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS05801	ɔjka -j -əł	мужичок STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KS05802	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS05901	jiwłap-ăsłap pox	безродный мальчик	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS05902	jiwłap-ăsłap pox ewi	безродный мальчик девочка	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS06001	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	obj	0	0
+KS06101	aśe -ł -ən	отец 3SG LOC	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS06102	jux	дерево	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06103	jux ɔntəp -ən	дерево люлька LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KS06201	jux	дерево	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06202	jux ɔntəp -ən	дерево люлька LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KS06203	aŋke -ł -ən	мать 3SG LOC	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS06204	jux	дерево	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06205	jux ɔntəp -a	дерево люлька DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS06301	jux	дерево	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06302	jux ɔntəp -a	дерево люлька DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS06303	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS06304	jux	дерево	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06305	jux ɔntəp	дерево люлька	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS06401	ɔjka -j -əł	мужичок STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KS06402	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS06501	jiwłap-ăsłap pox	безродный мальчик	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS06502	jiwłap-ăsłap pox ewi	безродный мальчик девочка	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS06601	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	obj	0	0
+KS06701	aśe -ł -ən	отец 3SG LOC	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS06702	karti	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06703	karti ɔntəp -ən	железо люлька LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KS06801	karti	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06802	karti ɔntəp -ən	железо люлька LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KS06803	aŋke -ł -ən	мать 3SG LOC	p	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1
+KS06804	karti	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06805	karti ɔntəp -a	железо люлька DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS06901	karti	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06902	karti ɔntəp -a	железо люлька DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS06903	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS06904	karti	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS06905	karti ɔntəp	железо люлька	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS07001	ɔjka -j -əł	мужичок STEM 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KS07101	jiwłap-ăsłap pox	безродный мальчик	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS07102	jiwłap-ăsłap pox ewi	безродный мальчик девочка	n	n	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
+KS07201	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	obj	0	0
+KS07401	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS07402	łowatti -j -a	величина STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS07501	i xătł -a	один день DAT	p	sbj	s	0	n	n	dat	nul	i	0	s	non	iob	0	1
+KS07502	wɔš tԑł jɔx	город полный люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS07503	jɔx	люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+KS07504	kǫrt tԑł jɔx	деревня полный люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS07505	jɔx	люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	obj	0	1
+KS07506	śempər	щемпэр 	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07507	śempər kew	щемпэр камень	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07508	śempər kew potali -j -ən	щемпэр камень комок STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+KS07601	ńoxəs	соболь	i	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	gen	0	0
+KS07602	ńoxəs păłat	соболь высота	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS07603	wǫrt	бог	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+KS07604	pox	сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+KS07605	śempər	щемпэр	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07606	śempər kew	щемпэр камень	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07607	śempər kew potali -j -ən	щемпэр камень комок STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+KS07701	śempər	щемпэр	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07702	śempər kew	щемпэр камень	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS07801	śempər	щемпэр	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS07802	śempər kew	щемпэр камень	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS08001	śempər	щемпэр	p	obj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08002	śempər kew	щемпэр камень	p	obj	p	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS08003	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08004	wɔš tԑł jɔx -ł -ał	город полный люди PL 3SG	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08005	 jɔx -ł -ał	люди PL 3SG	p	sbj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS08006	i pԑlk -əł	один сторона 3SG	p	sbj	s	1	3s	prt	nul	nul	i	1	s	non	sbj	0	1
+KS08101	ox -əł sԑm -əł	голова 3SG глаз 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08102	ox -əł	голова 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08103	sԑm -əł	глаз 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08201	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS08301	jɔx -ł -ał	люди PL 3SG	i	sbj	s	1	3s	oth	nul	nul	nul	0	p	hum	sbj	0	1
+KS08302	śempər	щемпэр	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08303	śempər kew -ən	щемпэр камень LOC	i	sbj	p	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KS08401	ńoxəs	соболь	i	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	gen	0	0
+KS08402	ńoxəs păłat	соболь высота	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS08403	wǫrt	бог	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+KS08404	pox	сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+KS08405	śempər	щемпэр	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08406	śempər kew	щемпэр камень	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	iob	1	1
+KS08601	śempər	щемпэр	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08602	śempər kew	щемпэр камень	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08603	śempər kew potali	щемпэр камень комок	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+KS08701	śempər	щемпэр	p	obj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08702	śempər kew	щемпэр камень	p	obj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08703	śempər kew potali	щемпэр камень комок	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+KS08704	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08705	kǫrt tԑł wɔš	деревня полный город	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS08706	 jɔx -ł -ał	люди PL 3SG	p	sbj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS08707	i pԑlk -əł	один половина 3SG	p	sbj	s	1	3s	prt	nul	nul	nul	0	s	non	sbj	0	1
+KS08801	ox -əł sԑm -əł	голова 3SG глаз 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08802	ox -əł	голова 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08803	sԑm -əł	голова 3SG глаз 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS08901	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS08902	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS09001	jiwłap-ăsłap pox	безродный мальчик	n	n	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS09002	jiwłap-ăsłap pox ewi	безродный мальчик девочка	n	n	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS09101	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	obj	0	0
+KS09201	kǫrt	деревня	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09202	wɔš tԑł jɔx -ł -ał	город полный люди PL 3SG	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09203	jɔx -ł -ał	люди PL 3SG	p	obj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS09204	i pԑlk -əł	один половина 3SG	p	obj	s	1	3s	prt	nul	nul	nul	0	s	non	obj	0	1
+KS09301	ałəŋ -a	утро DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS09401	kǫrt	деревня	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS09402	wɔš tԑł jɔx -ł -ał	город полный люди PL 3SG	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS09403	jɔx -ł -ał	люди PL 3SG	i	sbj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS09404	śempər	щемпэр	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09405	śempər kew	щемпэр камень	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09406	śempər kew potali -j -ən	щемпэр камень комок STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	1	1
+KS09501	ńoxəs	соболь	p	sbj	s	0	n	n	nul	nul	nul	0	nu	anm	gen	0	0
+KS09502	ńoxəs păłat	соболь высота	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS09503	wǫrt	бог	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+KS09504	pox	сын	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+KS09505	śempər	щемпэр	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09506	śempər kew -ən	щемпэр камень LOC	i	sbj	p	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KS09701	śempər	щемпэр	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09702	śempər kew	щемпэр камень	p	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09703	śempər kew potali	щемпэр камень комок	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	sbj	1	1
+KS09801	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09802	wɔš tԑł jɔx -ł -ał	город полный люди PL 3SG	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS09803	jɔx -ł -ał	люди PL 3SG	p	sbj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS09804	i pԑlk -əł	один половина 3SG	p	sbj	s	1	3s	prt	nul	nul	i	0	s	non	sbj	0	1
+KS09901	ox -əł sԑm -əł	голова 3SG глаз 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS09902	ox -əł	голова 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS09903	sԑm -əł	глаз 3SG	p	sbj	s	i	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+KS10001	aśe -ł	отец 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS10101	jiwłap-ăsłap pox	безродный мальчик	n	n	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS10102	jiwłap-ăsłap pox ewi	безродный мальчик девочка	n	n	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS10201	pox -en	сын 2SG	p	sbj	s	1	2s	dis	nul	nul	nul	0	s	hum	obj	0	0
+KS10301	kǫrt	деревня	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS10302	wɔš tԑł jɔx -ł -ał	город полный люди PL 3SG	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS10303	jɔx -ł -ał	люди PL 3SG	p	obj	s	1	3s	oth	nul	nul	nul	0	p	hum	obj	0	0
+KS10401	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS10402	pox -əł	отец 3SG сын 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS10501	pox	сын	i	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	obj	1	1
+KS10601	pox -ł -am	сын PL 1SG	p	sbj	s	1	1s	fam	psp	nul	nul	0	p	hum	pob	1	1
+KS10602	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS10603	pa xɔn pԑlk -a	другой царь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	0
+KS10604	taś	богатство	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS10701	săran	зырянин	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS10702	săran xɔp -a	зырянин лодка DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS10801	jiwpox -əł	сводный брат 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	nu	hum	sbj	1	1
+KS10802	šăš	спина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS10803	šăš łǫp -a	спина весло DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS10901	sewəs -a	корма DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS11001	xuw -əŋ tǫrm -eł	длина ATTR небо 3PL	i	sbj	s	1	3p	oth	nul	nul	nul	0	s	non	gen	0	0
+KS11002	wan -əŋ tǫrm -eł	короткий ATTR небо 3PL	i	sbj	s	1	3p	oth	nul	nul	nul	0	s	non	gen	0	0
+KS11003	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS11004	pa xɔn pԑlk -a	другой царь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	1
+KS11101	wɔš	город	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1
+KS11102	wɔš kałtəŋ -a	город пристань DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS11103	jiwpox -ł -ał	сводный брат PL 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	p	hum	sbj	1	1
+KS11201	taś -ł -uw	богатство PL 1PL	p	sbj	s	1	1p	own	nul	nul	nul	0	p	non	obj	1	1
+KS11401	jiwpox -ł -ał	сводный брат PL 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	p	hum	sbj	1	1
+KS11402	ɔntəp -əł	люлька 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+KS11403	pan	пологий берег	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+KS11404	ɔntəp -əł -a	люлька 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+KS11501	ɔntəp -ən	люлька LOC	i	sbj	s	0	n	own	loc	nul	nul	0	s	non	iob	1	1
+KS11502	i łowat	один величина	i	sbj	s	0	n	n	nul	nul	i	0	s	non	gen	0	1
+KS11503	kăt xǫ	два мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	0	1
+KS11601	i xǫ	один мужчина	i	sbj	s	0	n	n	nul	nul	i	0	s	hum	sbj	0	1
+KS11801	i xǫ	один мужчина	i	sbj	s	0	n	n	nul	nul	i	0	s	hum	sbj	0	1
+KS12201	ɔntəp -əł	люлька 3SG	p	sbj	s	1	3s	own	nul	nul	nul	0	s	non	obj	1	1
+KS12202	łaŋəł -a	крыша DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS12203	ɔntəp	люлька	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+KS12204	jiŋk -a	вода DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KS12301	jiŋk	вода	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+KS12302	kart	железо	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS12303	tɔxtəŋ	гагара	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+KS12304	wox	серебро	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS12305	tɔxtəŋ	гагара	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+KS12306	wox tɔxtəŋ tur -ən	серебро гагара голос LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	0
+KS12401	wɔš	город	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS12402	wɔš kałtəŋ -əł -a	город пристань 3SG DAT	p	sbj	s	1	3s	oth	dat	nul	nul	1	s	non	iob	0	1
+KS12501	xɔt -əł -a	дом 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+KS12601	jiwpox -ł -am	сводный брат PL 1SG	p	sbj	s	1	1s	fam	nul	nul	nul	0	p	hum	sbj	1	1
+KS12602	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS12603	pa xɔn pԑlk -ən	другой царь сторона LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+KS12604	taś	богатство	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS12701	aśe -ł	отец 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS12801	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS12802	pa xɔn pԑlk -a	другой царь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS12803	taś	богатство	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS12901	taś -ł -an	богатство PL 3DU	p	sbj	s	1	3d	own	nul	nul	nul	0	p	non	obj	0	1
+KS12902	xɔp -a	лодка DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS12903	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS12904	pa xɔn pԑlk -a	другой царь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	1
+KS13001	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS13002	šăš	спина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS13003	šăš łǫp -a	спина весло DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS13004	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1
+KS13005	sewəs -a	корма DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS13101	pa xɔn	другой царь	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS13102	pa xɔn pԑlk -a	другой царь сторона DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS13201	wɔš	город	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS13202	wɔš kałtəŋ -a	город пристань DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS13301	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS13401	taś -əŋ jɔx	богатство ATTR люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	1
+KS13402	taś -əŋ jɔx xɔt -a	богатство ATTR люди дом DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	0	1
+KS13501	taś -əŋ jɔx	богатство ATTR люди	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1
+KS13502	taś -əŋ jɔx xɔt -ən	богатство ATTR люди дом LOC	p	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	1	1
+KS13601	xɔt -ən	дом LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KS13602	xɔt -ən jɔx -ł -ał	дом LOC люди PL 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	p	hum	sbj	1	1
+KS13701	jiwewe -w	сводная сестра 1PL	p	obj	s	1	1p	fam	nul	nul	nul	0	nu	hum	obj	0	1
+KS13702	aj jiwewe -w	маленький сводная сестра 1PL 	p	obj	s	1	1p	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS13703	nin pox -en -a	вы сын 2SG DAT	p	obj	s	1	2s	fam	dat	nul	nul	0	s	hum	iob	1	1
+KS13704	janas xɔt -a	другой дом DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS13801	janas xɔt -a	другой дом DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS13901	xɔt -əł -ən	дом 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	nul	0	s	non	iob	1	1
+KS13902	ot -əp saj	вещь ATTR заграждение	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KS13903	łapət păte -p nǫrəŋ	семь дно ATTR котел	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KS14101	nore -ł -ən	нары 3SG LOC	i	sbj	s	1	3s	oth	loc	nul	nul	0	s	non	iob	0	1
+KS14102	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS14103	xɔt xon	дом живот	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1
+KS14104	xɔt xon ɔw -a	дом живот дверь DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS14105	śiśki -leŋki	воробей DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	0	1
+KS14301	put -en	котел 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	gen	1	1
+KS14302	put -en păte -ł	котел 2SG дно 3SG	i	sbj	s	1	3s	prt	nul	nul	nul	1	s	non	sbj	1	1
+KS14303	sɔxəł -ən	доска LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS14304	xɔt -en	дом 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	gen	1	1
+KS14305	suŋ -əł	угол 3SG	i	sbj	s	1	3s	prt	psp	nul	nul	0	nu	non	pob	1	1
+KS14306	tut -ən	огонь LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS14401	śiśki -leŋke -ł	воробей DIM 3SG	p	obj	s	1	3s	dis	nul	dim	nul	0	s	anm	obj	0	0
+KS14501	jiwłap-ăsłap pox	безродный сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS14502	jiwłap-ăsłap pox wɔj	безродный сын зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	nul	0	0
+KS14601	imi -j -ən	женщина STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	0	0
+KS14701	nori -j -a	нары STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS14801	śiśki -leŋke -ł	воробей DIM 3SG	p	sbj	s	1	3s	dis	nul	dim	nul	0	s	anm	sbj	1	1
+KS14802	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS14803	xɔt xon	дом живот	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1
+KS14804	śiśki -leŋke -ł xɔt xon ɔw -a	дом живот дверь DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS15001	put -en	котел 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	gen	1	1
+KS15002	put -en păte -ł	котел 2SG дно 3SG	i	sbj	s	1	3s	prt	nul	nul	nul	0	s	non	obj	1	1
+KS15003	sɔxəł -ən	доска LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS15004	xɔt -en	дом 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	gen	1	1
+KS15005	suŋ -əł	угол 3SG	i	sbj	s	1	3s	prt	psp	nul	nul	0	nu	non	pob	1	1
+KS15006	tut -ən	огонь LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS15101	śiśki -leŋke -ł	воробей DIM 3SG	p	obj	s	1	3s	dis	nul	dim	nul	0	s	anm	obj	1	1
+KS15201	jiwłap-ăsłap pox	безродный сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	nul	0	0
+KS15202	jiwłap-ăsłap pox wɔj	безродный сын зверь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	nul	0	0
+KS15301	imi -j -ən	жена STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	0	0
+KS15401	nore -ł -a	нары 3SG DAT	p	sbj	s	1	3s	dis	dat	nul	nul	0	s	non	iob	1	1
+KS15501	śiśki -leŋke -ł	воробей DIM 3SG	p	sbj	s	1	3s	dis	nul	dim	nul	0	s	anm	sbj	1	1
+KS15502	xɔt	дом	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS15503	xɔt xon	дом живот	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1
+KS15504	xɔt xon ɔw -a	дом живот дверь DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS15701	xɔt	дом	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS15702	xɔt suŋ	дом угол	i	sbj	s	0	n	n	psp	nul	nul	1	nu	non	pob	1	1
+KS15703	tut -en	огонь 2SG	i	sbj	s	1	2s	dis	nul	nul	nul	0	nu	non	sbj	0	1
+KS15704	put -en	 котел 2SG	i	sbj	s	1	2s	own	nul	nul	nul	0	s	non	gen	1	1
+KS15705	put -en păte -ł	котел 2SG дно 3SG	i	sbj	s	1	3s	prt	nul	nul	nul	1	s	non	obj	1	1
+KS15706	sɔxəł -ən	доска LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS15801	ɔw -a	дверь DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS15802	ɔw -əł	дверь 3SG	p	obj	s	1	3s	dis	nul	nul	nul	0	s	non	obj	1	1
+KS15901	xɔt	дом	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS15902	xɔt suŋ	дом угол	i	sbj	s	0	n	n	psp	nul	nul	1	nu	non	pob	1	1
+KS15903	tut -əł	огонь 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	0	1
+KS16001	tǫrəm	небо	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16002	tǫrəm aśe -ł	небо отец 3SG	i	sbj	s	1	3s	dis	psp	nul	nul	1	s	hum	pob	1	1
+KS16003	aj xuł	маленький рыба	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	0
+KS16004	aj xuł sɔm	маленький рыба чешуя	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	0	0
+KS16005	aj xuł sɔm sԑm -ən	маленький рыба чешуя глаз LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	0
+KS16006	aj xuł sɔm sԑm -ən łăxər	маленький рыба чешуя глаз LOC кольчуга	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS16007	keši	нож	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS16101	nūm	верх	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KS16102	weś -pi nūm tǫrəm	верх небо	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1
+KS16103	weś -pi nūm tǫrəm aśe -ł -ən	верх небо отец 3SG LOC	p	sbj	s	1	3s	dis	loc	nul	nul	1	s	hum	iob	1	1
+KS16104	łăxər -ən	кольчуга LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KS16105	keši -j -ən	нож STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+KS16201	aśe -ł	отец 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	gen	1	1
+KS16202	aśe -ł łăxər -əł	отец 3SG кольчуга 3SG	p	sbj	s	1	3s	own	nul	nul	nul	1	s	non	obj	1	1
+KS16203	keši	нож	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+KS16301	wǫrt	бог	i	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	0	1
+KS16302	aŋkəł	столб	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	app	0	0
+KS16303	ńar ԑł -əł	голый тело 3SG	p	sbj	s	1	3s	bod	psp	nul	nul	0	s	non	pob	0	0
+KS16401	łaj wur -a	темный кровь DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS16402	pit wur -a	черный кровь DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS16403	tԑłəŋ śompəł -ən	полный черпак LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+KS16501	kǫrt	деревня	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16502	wɔš tԑł mir -əł	город полный народ 3SG	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16503	mir -əł	народ 3SG	p	obj	s	1	3s	oth	nul	nul	nul	0	s	hum	obj	0	0
+KS16601	jăm pԑlək	правый сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16602	jăm pԑlək jɔš -əł	правый сторона рука 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+KS16603	puwa pԑlək	левый сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16604	puwa pԑlək kur -əł	левый сторона нога 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+KS16701	jăm pԑlək	правый сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16702	jăm pԑlək jɔš -əł -a	правый сторона рука 3SG DAT	p	sbj	s	1	3s	bod	dat	nul	nul	0	s	non	iob	1	1
+KS16703	wǫrt	бог	p	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	obj	1	1
+KS16704	jiwewi	сводная сестра	p	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	1	1
+KS16705	aj jiwewi	маленький сводная сестра 1PL 	p	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	1	1
+KS16706	jăm pԑlək	правый сторона	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS16707	jăm pԑlək jɔš -əł -a	правый сторона рука 3SG DAT	p	sbj	s	1	3s	bod	dat	nul	nul	0	s	non	iob	1	1
+KS16901	kǫrt tԑł mir -ew	деревня полный народ 1PL	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS16902	mir -ew	народ 1PL	p	obj	s	1	1p	oth	nul	nul	nul	0	s	hum	obj	0	1
+KS16903	wɔš tԑł jɔx -ł -uw	город полный люди PL 1PL	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KS16904	jɔx -ł -uw	люди PL 1PL	p	obj	s	1	1p	oth	nul	nul	nul	0	p	hum	obj	0	1
+KS17001	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS17002	śԑp -a	карман DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS17101	wɔš	город	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+KS17102	wǫrt	бог	p	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	sbj	1	1
+KS17301	wǫrt	бог	p	obj	s	0	n	n	nul	nul	nul	0	nu	hum	obj	1	1
+KS17401	jǫxł -əł	лук 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	s	non	obj	0	1
+KS17501	tăm -pi taŋkər	этот PROPR тетива	p	sbj	s	0	n	n	nul	nul	tam	0	s	non	obj	0	1
+KS17502	tom -pi taŋkər	тот PROPR тетива	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KS17503	jɔš	рука	p	obj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS17601	wǫrt	бог	p	sbj	s	0	n	n	nul	nul	nul	0	nu	hum	obj	1	1
+KS17602	i ńɔł	один стрела	p	sbj	s	0	n	n	psp	nul	i	0	s	non	pob	0	1
+KS17701	oxsox -ł -ał	волосы PL 3PL	p	obj	s	1	3p	bod	nul	nul	nul	0	p	non	obj	1	1
+KS17702	jux	дерево	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1
+KS17703	jux tij -a	дерево конец DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KS17801	xɔp -ł -a	лодка 3SG DAT	p	sbj	s	1	3s	own	dat	nul	nul	0	s	non	iob	1	1
+KS17901	kǫrt -əł -a	деревня 3SG DAT	p	sbj	s	1	3s	oth	dat	nul	nul	0	s	non	iob	1	1
+KS17902	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+KS17903	kǫrt kałtəŋ -a	деревня пристань DAT	p	sbj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+KS18001	aŋke -ł	мать 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	pob	1	1
+KS18002	wuśa	приветствие	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS18101	ime -ł	жена 3SG	p	obj	s	1	3s	fam	nul	nul	nul	0	s	hum	obj	1	1
+KS18102	śԑp	карман	p	obj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+KS18103	xɔtxăr -a	пол DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+KS18201	łowatte -ŋ nԑ	величина ATTR женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS18202	łowatte -ŋ nԑ łowatte -ł -ən	величина ATTR женщина величина 3SG LOC	p	sbj	s	1	3s	oth	loc	nul	nul	1	s	non	iob	0	1
+KS18203	păłatte -ŋ nԑ	рост ATTR женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+KS18204	păłatte -ŋ nԑ păłatte -ł -ən	рост ATTR женщина рост 3SG LOC	p	sbj	s	1	3s	oth	loc	nul	nul	1	s	non	iob	0	1
+KS18301	kǫrt	деревня	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS18302	wǫn pɔri	большой пир	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS18303	wɔš	город	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+KS18304	wǫn pɔri	большой пир	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KS18401	tiłəś	месяц	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KS18402	i łapət	один неделя	i	sbj	s	0	n	n	nul	nul	i	0	s	non	obj	0	1
+KS18502	in śuń -əł xǫł -əł -ən	этот счастье 3SG благосостояние 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	in	0	s	non	iob	1	1
+KS18501	śuń -əł	счастье 3SG	i	sbj	s	i	3s	dis	nul	nul	nul	0	s	non	iob	1	1
+KS18502	xǫł -əł -ən	благосостояние 3SG LOC	i	sbj	s	i	3s	dis	loc	nul	nul	0	s	non	iob	1	1

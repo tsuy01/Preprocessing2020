@@ -1,0 +1,41 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+CH00001	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH00002	iki	мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	1
+CH00101	sԑr wǫnt	глухой лес	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+CH00102	mor wǫnt	дремучий лес	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+CH00103	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH00104	iki	мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+CH00201	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH00301	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH00401	mir	народ	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	0
+CH00501	nowi tuš -əp pirəś iki	белый борода ATTR старый мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+CH00601	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH00701	jăkan iki	дверной запор мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+CH00801	iśki -j -ən	мороз STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	0
+CH00802	šaj	чай	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH01001	šaj	чай	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH01002	pirəś iki	старый мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+CH01101	norəm	полка	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+CH01301	norm -a	полка DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+CH01401	jăkan xɔt -əŋ iki	дверной запор дом ATTR мужчина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+CH01501	wԑr	дело	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	0
+CH01502	nowi tuš -əŋ iki -j -ən	белый борода ATTR мужчина STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	hum	sbj	1	1
+CH01601	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+CH01602	mir	народ	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1
+CH01701	xołijewa łɔw -ł -ał	все лошадь PL 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	p	anm	obj	0	1
+CH01702	mis -ł -ał	корова PL 3SG	p	obj	s	1	3s	own	nul	nul	nul	0	p	anm	obj	0	1
+CH01801	norəm	полка	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+CH01901	nowi tuš -əp ikԑ -ł	белый борода ATTR мужчина 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+CH02001	pupi	медведь	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+CH02201	jăkan xɔt -əŋ iki	дверной запор дом ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+CH02202	norəm	полка	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+CH02401	nowi tuš -əp ikԑ -ł	белый борода ATTR мужчина 3SG	i	sbj	s	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+CH02501	năŋ taś -en	ты богатство 2SG	i	sbj	s	1	2s	own	nul	nul	nul	1	s	non	sbj	1	1
+CH02502	iśi śir -əł -ən	тот же образ 3SG	i	sbj	s	1	3s	dis	loc	nul	isi	0	s	non	prd	0	0
+CH02601	ɔłəm	сон	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH02701	xɔt -en	дом 2SG	i	sbj	s	1	2s	own	psp	nul	nul	0	s	non	pob	1	1
+CH02702	mɔś	сказка	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+CH02801	tǫx xojat	некоторый человек	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	0
+CH02802	iśki	мороз	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+CH02803	tǫx xojat ńałm -eł	некоторый человек язык 3PL	i	sbj	s	1	3p	bod	nul	nul	nul	1	s	non	sbj	0	0
+CH02901	sԑm	глаз	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0

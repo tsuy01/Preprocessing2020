@@ -1,0 +1,120 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF		
+ZV00001	łɔn	жила	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	
+ZV00002	imi	женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	1	ок	
+ZV00101	imԑ -ŋən	жена DU	i	sbj	s	0	n	n	nul	nul	nul	0	d	hum	sbj	0	1	ок	
+ZV00102	imԑ -ŋən ikԑ -ŋən	жена DU муж DU	i	sbj	s	0	n	n	nul	nul	nul	0	d	hum	sbj	0	1	ок	Хотя мб муж уже определён на этот момент по бриджингу.
+ZV00103	meń	невестка	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	0	1	ок	
+ZV00201	meń -əł	невестка 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1		
+ZV00202	jetn -a	вечер DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm		1	1		
+ZV00203	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Тоже близко к СГ
+ZV00301	wǫntəp	свекровь	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	app	1	1	ок	
+ZV00302	wǫntəp ime -ł -ən	свекровь женщина 3SG LOC	i	sbj	s	1	3s	fam	loc	nul	nul	0	s	hum	iob	1	1	ок	Пассив; значение посессива "прагматически" вывел (хоть тут "жещина", "в сумме" имеется в виду свекровь -- родственник).
+ZV00401	pun	шерсть	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Императив
+ZV00402	wǫntəp	свекровь	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	app	1	1	ок	
+ZV00403	wǫntəp ime -ł	свекровь женщина 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV00501	jasəŋ -a	слово DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1	ок	Тут сложно, слова вроде референциальны, но мб они слишком mass
+ZV00601	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Парсер предположил, что śi относится к шерсти, но мне кажется, что нет.
+ZV00602	imi	женщина	p	sbj	s	0	n	n	nul	nul	śi	0	s	hum	sbj	1	1	ок	Я предположил, что śi относится сюда.
+ZV00603	amp	собака	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	attr	0	0	ок	Не уверен про синтаксис
+ZV00604	amp šăš	собака спина	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	attr	0	0	ок	
+ZV00605	amp šăš łɔn	собака спина жила	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1	ок	
+ZV00701	łǫjəŋ	подруга	n	n	s	0	n	n	nul	nul	nul	0	s	hum	n	1	1	ок	
+ZV00702	măta nԑŋ -ԑmən	который женщина 1DU	p	sbj	s	1	1d	dis	nul	nul	nul	0	s	hum	sbj	0	0	ок	Релятивная, поэтому мб нереф. Надо посмотреть.
+ZV00801	aj meń	маленький невестка	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV00901	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Тоже почти как СГ
+ZV00902	imi	женщина	p	obj	s	0	n	n	nul	nul	nul	0	s	hum	subj	1	1	ок	
+ZV00903	iśi kurəm -ən	тот же шаг LOC	p	obj	s	0	n	n	loc	nul	isi	0	s	non	iob	1	1	ок	Возможно, неправильный реф. статус.
+ZV00904	amp	собака	p	obj	s	0	n	n	nul	nul	nul	0	s	anm	attr	0	0	ок	
+ZV00905	amp šăš	собака спина	p	obj	s	0	n	n	nul	nul	nul	0	s	non	attr	0	0	ок	
+ZV00906	amp šăš łɔn	собака спина жила	p	obj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1	ок	Неуверен про неопределённость.
+ZV00907	kukər tԑł łɔn	берестяной кузов, полный жил	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1	ок	
+ZV00908	łɔn	жила	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	psp	0	1	ок	На всякий случай перепроверьте
+ZV00909	sɔrńe -ŋ	золото ATTR	p	sbj	s	0	n	n	attr	pst	nul	0	s	non	attr	0	0	ок	
+ZV00910	sɔrńe -ŋ aj an	золото ATTR маленький чашка	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	0	ок	
+ZV01001	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Мб тут референтное
+ZV01002	pun wԑrti imi	шерсть делать IPFV.PART женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1	ок	Генитивное зависимое
+ZV01003	pun wԑrti imi xɔt	шерсть делать IPFV.PART женщина дом	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1	ок	Определённость по бриджингу
+ZV01004	wurkəm	Вуркум	i	sbj	p	0	n	n	nul	nul	nul	0	s	non	gen	1	1	ок	
+ZV01005	wurkəm pa pԑlək -ən	Вуркум другой сторона LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1	ок	Перепроверьте референциальный статус.
+ZV01101	meń	невестка	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV01102	łɔn	жила	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	Тоже СГ.
+ZV01103	łɔn wԑr -ti ime -n	жила делать IPFV.PART женщина 2SG	p	obj	s	1	2s	dis	nul	nul	nul		s	hum	gen	1	1	ок	
+ZV01104	ime -n xɔt	женщина 2SG дом	p	obj	s	0	n	n	nul	nul	nul	1	s	non	gen	1	1	ок	
+ZV01105	ime -n xɔt ɔw -əł	женщина 2SG дом дверь 3SG	p	obj	s	1	3s	prt	nul	nul	nul	1	s	non	??	1	1	ок	Какой синтаксис?
+ZV01106	tut -en	огонь 2SG	p	obj	s	1	2s	dis	nul	nul	nul	0	s	non	obj	0	1	ок	Мб не тот реф. статус.
+ZV01301	xɔt -en	дом 2SG	p	n	s	1	2s	own	nul	nul	nul	0	s	non	sbj	1	1	ок	Возможно, это дискурсивный посессив, но по семантике обладания тоже хорошо сходится.
+ZV01302	tut -ən	огонь LOC	p	n	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	Возможно, нереф.
+ZV01303	aj ot -ł -an -ən	маленький вещь PL 2SG LOC	p	n	s	1	2s	own	loc	nul	nul	0	p	hum	iob	1	1	ок	Имеются в виду дети? И дети женщины по жилам?
+ZV01401	in imi	этот женщина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1	ок	
+ZV01501	aj meń	маленький невестка	p	obj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV01502	mir -əł	народ 3SG	p	obj	s	1	3s	oth	nul	nul	nul	0	s	hum	gen	1	1	ок	Возможно, посессив по родственникам.
+ZV01503	aj meń mir -əł wԑnš -ət	народ 3SG лицо PL	p	obj	s	0	n	n	nul	nul	nul	1	p	non	obj	1	1	ок	Лица определены благодаря домочадцам.
+ZV01504	woj -ən	жир LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1	ок	Возможно, нереф.
+ZV01505	łuw wԑnš -əł	он лицо 3SG	p	n	s	1	3s	bod	nul	nul	luw	0	s	non	obj	1	1	ок	Прописал демонстративом λuw.
+ZV01506	sɔrńe -ŋ	золото ATTR	p	obj	s	0	n	n	nul	atr	nul	0	s	non	attr	0	0	ок	
+ZV01507	sɔrńe -ŋ an -ije -ł	золото ATTR посуда DIM 3SG	p	obj	s	1	3s	own	nul	dim	nul	0	s	non	obj	0	1	ок	Не уверен про определённость и референциальность.
+ZV01508	wut	Вут	p	obj	p	0	n	n	nul	nul	nul	0	s	non	app	1	1	ок	
+ZV01509	wut imi	Вут женщина	p	obj	s	0	n	n	psp	nul	nul	0	s	non	iob	1	1	ок	Странный синтаксис.
+ZV01510	suŋ -a	угол DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1	ок	
+ZV01901	meń	невестка	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV02001	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	
+ZV02002	imi	женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	Возможно, другой аспект, там оно подлежащее сразу двух клауз.
+ZV02101	in mir	этот народ	p	obj	s	0	n	n	nul	nul	in	0	s	hum	obj	1	1	ок	
+ZV02201	kur	нога	p	n	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1	ок	Возможно, тут нереферентно всё-таки.
+ZV02202	kur păti -ł -ał	нога дно PL 3PL	p	n	s	1	3p	prt	nul	nul	nul	1	p	non	sbj	1	1	ок	
+ZV02203	woj -ən	жир LOC	p	n	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1	ок	Такие статусы реф., потому что жир уже известный.
+ZV02204	aj meń	маленький невестка	p	n	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV02205	oš -a	ум DAT	p	n	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0	ок	кажется, часть СГ
+ZV02301	suŋ -a	угол DAT	i	n	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1	ок	Нужно перепроверить аспект
+ZV02302	suŋ -a an -ije -ł	посуда DIM 3SG	p	n	s	1	3s	own	nul	dim	nul	0	s	non	obj	1	1	ок	
+ZV02401	an -ijԑ -m	посуда DIM 1SG	p	sbj	s	1	1s	own	nul	dim	nul	0	s	non	sbj	1	1	ок	
+ZV02501	ma săm -ԑm	я сердце 1SG	p	obj	s	1	1s	bod	nul	nul	nul	1	s	non	obj	1	1	ок	
+ZV02502	năŋ săm -en	ты сердце 2SG	p	obj	s	1	2s	bod	nul	nul	nul	1	s	non	obj	1	1	ок	
+ZV02701	śi wԑr	этот дело	p	sbj	s	0	n	n	nul	nul	si	0	s	non	sbj	1	1	ок	Определённое дело?
+ZV02801	tăł -a	зима DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	sbj	0	1	ок	Дативный субъект?
+ZV02802	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1	ок	
+ZV02901	meń	невестка	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	app	1	1	ок	
+ZV02902	meń nԑ	невестка женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV02903	meń nԑ ateł xɔt -ən	дом LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1	ок	Мб дом неопр.
+ZV02904	pox -əł	сын 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	hum	psp	1	1	ок	
+ZV03001	śaśe -ł	бабушка 3SG	i	sbj	s	1	3s	fam	nul	nul	nul	0	s	hum	app	1	1	ок	
+ZV03002	śaśe -ł imi	бабушка по отцу	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1	ок	
+ZV03101	pox -ije -n	сын DIM 2SG	p	obj	s	1	2s	fam	nul	dim	nul	0	s	hum	obj	1	1	ок	Какой аспект?
+ZV03102	pupi	медведь	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	attr	0	0	ок	
+ZV03103	pupi jak	медведь танец	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1	ок	Возможно, определённый танец.
+ZV03201	tur	горло	i	n	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1	ок	Правильно РС? Это же конкретное горло.
+ZV03202	tur sij -əł	горло звук 3SG	i	n	s	1	3s	oth	nul	nul	nul	0	s	non	sbj	1	1	ок	
+ZV03203	tur sij -əł pa xoras -əp	горло звук 3SG другой вид ATTR	i	n	s	0	n	n	nul	nul	nul	0	s	non	pred	0	0	ок	??
+ZV03301	meń -əł -ən	невестка 3SG LOC	i	n	s	1	3s	fam	nul	nul	nul	0	s	non	iob	1	1	ок	Пониженное подлежащее.
+ZV03401	ńałm -en	язык 2SG	p	sbj	s	1	2s	bod	nul	nul	nul	0	s	non	obj	1	1	ок	Что с синтаксисом?
+ZV03501	ńałm -en	язык 2SG	p	obj	s	1	2s	bod	nul	nul	nul	0	s	non	obj	1	1	ок	
+ZV03502	ǫmpi -j -a	ковш STEM DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	anm	iob	0	1	ок	
+ZV03601	pox -ije -ł	мальчик DIM 3SG	p	obj	s	1	3s	fam	nul	dim	nul	0	s	hum	obj	0	1	ок	Правильная ли семантика посессива? Я исходил из того, что по смыслу сын => семейные отношения.
+ZV03701	pupi	медведь	i	n	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	1	ок	Я понял как "танцующих медведей дом"
+ZV03702	xɔt -a	дом DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1	ок	Возможно, ноепределённый
+ZV03801	xiłe -n	внук 2SG	p	sbj	s	1	2s	fam	nul	nul	nul	0	s	hum	obj	1	1	ок	Возможно, дискурсивный посессив вопреки переводу.
+ZV04001	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	
+ZV04002	imi -j -ən	женщина STEM LOC	p	n	s	0	n	n	loc	nul	nul	0	s	hum	iob	1	1	ок	
+ZV04101	xojat -ən	человек LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	hum	iob	0	1	ок	Что с синтаксисом?
+ZV04102	pun	шерсть	i	n	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0	ок	
+ZV04103	imi	женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	1	1	ок	
+ZV04104	imi xɔt -a	женщина дом DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1	ок	
+ZV04105	łipi -j -ən	внутренность STEM LOC	n	n	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1	ок	
+ZV04106	ńawrԑm	ребенок	n	n	s	0	n	n	nul	nul	nul	0	s	hum	iob	0	1	ок	Мне кажется, что на момент предложения неочевидно, что за ребёнок.
+ZV04107	sij	шум	n	n	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1	ок	Не уверен в реф-статусе
+ZV04201	nūm	верх	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1	ок	Не уверен про РС
+ZV04202	nūm pԑlək	верх сторона	p	obj	s	0	n	n	psp	nul	nul	0	s	non	psp	1	1	ок	
+ZV04203	tut -ən	огонь LOC	p	obj	s	0	n	n	loc	nul	nul	0	s	non	??	0	1	ок	??
+ZV04301	in imi	этот женщина	p	sbj	s	0	n	n	nul	nul	in	0	s	hum	sbj	1	1	ок	
+ZV04302	tut	огонь	n	n	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0	ок	
+ZV04303	tut pɔxəl	огонь клубок	n	n	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1	ок	Не уверен в синтаксисе и РС.
+ZV04401	ńawrԑm	ребенок	p	obj	s	0	n	n	psp	nul	nul	0	s	hum	psp	1	1	ок	Там числительное?
+ZV04402	wǫnt	лес	p	obj	s	0	n	n	nul	nul	nul	0	s	non	attr	0	0	ок	
+ZV04403	wǫnt łǫŋx	лес божество	p	obj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1	ок	Какая одушевлённость?
+ZV04404	tut -a	огонь DAT	p	obj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1	ок	
+ZV04405	xǫ -j -əŋ	мужчина STEM ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	attr	0	0	ок	
+ZV04406	xǫ -j -əŋ jis -əŋ	мужчина STEM ATTR век ATTR	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	attr	0	0	ок	
+ZV04407	xǫ -j -əŋ jis -əŋ tǫrəm	мужчина STEM ATTR век ATTR жизнь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1	ок	
+ZV04408	sułtəm	искра	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	0	0	ок	Не уверен.
+ZV04501	śi kǫrt	этот деревня	p	sbj	s	0	n	n	nul	nul	si	0	s	non	sbj	1	1	ок	
+ZV04502	śi wurkəm kǫrt	этот Вуркум деревня	p	sbj	p	0	n	n	nul	nul	nul	0	s	anm	app	1	1	ок	

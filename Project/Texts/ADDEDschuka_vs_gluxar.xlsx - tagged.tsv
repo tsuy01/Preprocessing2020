@@ -1,0 +1,30 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+SG00001	sɔrt pa luk	щука и глухарь	n	n	s	0	n	n	nul	nul	nul	0	pl	anm	nul	0	1
+SG00002	sɔrt	щука	n	n	s	i	n	n	nul	nul	nul	0	s	anm	nul	0	1
+SG00003	luk	глухарь	n	n	s	i	n	n	nul	nul	nul	0	s	anm	nul	0	1
+SG00101	sɔrt pa luk	щука и глухарь 2SG	i	sbj	s	1	2s	dis	nul	nul	nul	0	pl	anm	sbj	1	1
+SG00102	sɔrt	щука	i	sbj	s	i	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00103	luk -en	глухарь 2SG	i	sbj	s	i	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00201	luk -leŋke -n	глухарь DIM 2SG	i	n	s	1	2s	dis	nul	dim	nul	0	s	anm	sbj	1	1
+SG00202	sɔrt -en	щука 2SG	i	n	s	1	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00203	jiŋk	вода	i	n	s	0	n	n	nul	nul	nul	0	s	non	pob	0	0
+SG00204	łałʼ -a	война DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+SG00301	luk -en	глухарь 2SG	i	obj	s	1	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00302	sɔrt -əł	щука 3SG	i	obj	s	1	3s	dis	nul	nul	nul	0	s	anm	obj	1	1
+SG00303	ńɔł -n	стрела LOC	i	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+SG00401	sɔrt -en	щука 2SG	i	sbj	s	1	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00402	jiŋk -a	вода DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+SG00404	šănš wur -əł	спина сторона 3SG	i	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+SG00501	sɔrt -əł	щука 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00502	ńɔł -ən	стрела LOC	i	obj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+SG00503	luk -əł	глухарь 3SG	i	obj	s	1	3s	dis	nul	nul	nul	0	s	anm	obj	1	1
+SG00504	peś -ŋəł	бедро DU.POSS	i	sbj	s	0	n	n	nul	nul	nul	0	dp	non	sbj	1	1
+SG00701	łałʼ	война	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+SG00801	sɔrt -en	щука 2SG	i	sbj	s	1	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00802	lăp -əŋ ńɔł	наконечник ATTR стрела	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG00803	šănš -əł -ən	спина 3SG LOC	i	sbj	s	1	3s	bod	loc	nul	nul	0	s	non	iob	1	1
+SG00804	luk -en	глухарь 2SG	i	sbj	s	1	2s	dis	nul	nul	nul	0	s	anm	sbj	1	1
+SG00805	peś -ŋəł	бедро DU.POSS	i	sbj	s	0	n	n	nul	nul	nul	0	dp	non	obj	1	1
+SG00806	ńɔł -ət	стрела PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	non	iob	0	1
+SG01001	nԑpek -a	бумага DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+SG01002	t mɔldanɔw	Т. Молданов	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1

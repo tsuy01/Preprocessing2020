@@ -1,0 +1,142 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+SG00101	šɔwər	заяц	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG00102	šɔwər ime -ł	заяц жена 3SG	i	sbj	s	1	3s	fam	psp	nul	nul	1	s	anm	pob	1	1
+SG00201	łԑtot	еда	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+SG00202	ot	вещь	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	0
+SG00301	ńawrԑm	ребенок	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+SG00401	xătəł	день	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	iob	0	0
+SG00402	pa xojat	другой человек	i	sbj	s	0	n	n	nul	nul	nul	0	s	hum	gen	0	1
+SG00403	pa xojat ńawrԑm -ət	другой человек ребенок PL	i	sbj	s	0	n	n	nul	nul	nul	1	p	anm	obj	0	1
+SG00404	xɔt -ən -a	дом 2/3DU DAT	i	sbj	s	1	2/3d	n	dat	nul	nul	0	s	non	iob	1	1
+SG00405	ԑpł -əŋ łԑtot -ən	вкус ATTR еда LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+SG00501	păstek imi	рябчик женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+SG00502	păstek imi xiłi -ł -ał	рябчик женщина внук PL 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	1	p	anm	pob	1	1
+SG00601	păstek imi	рябчик женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG00602	šɔwər	заяц	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG00603	šɔwər šɔwər ime -ł	заяц заяц жена 3SG	i	sbj	s	1	3s	n	psp	nul	nul	1	s	anm	pob	1	1
+SG00604	pa xojat	другой человек	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	1
+SG00605	pa xojat pošx -ət	другой человек детеныш PL	i	sbj	s	0	n	n	nul	nul	nul	1	p	anm	obj	1	1
+SG00701	šɔwər	заяц	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	nul	1	1
+SG00702	šɔwər imi	заяц женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	nul	1	1
+SG00703	pox	сын	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	1	1
+SG00801	šɔwər	заяц	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	pob	1	1
+SG00802	šɔwər imi	заяц женщина	p	sbj	s	0	n	n	psp	nul	nul	0	s	anm	pob	1	1
+SG00803	aj šɔwr -ije łɔśsԑm	маленький заяц DIM снежинка	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG00804	sԑm -a	глаз DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	anm	iob	0	0
+SG00901	aŋkԑ -ŋən	мать DU	p	sbj	s	0	n	n	nul	nul	nul	0	d	anm	sbj	1	1
+SG00902	aśԑ -ŋən	отец DU	p	sbj	s	0	n	n	nul	nul	nul	0	d	anm	sbj	1	1
+SG00903	aŋki	мать	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG00904	pox -ije -ł	сын DIM 3SG	i	sbj	s	1	3s	fam	psp	dim	nul	0	s	anm	pob	1	1
+SG00905	at -ł -ət -ən	ночь 3SG PL LOC	i	sbj	s	1	3s	dis	loc	nul	nul	0	p	non	iob	0	0
+SG00906	ɔntəp	люлька	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+SG01001	pox -ije	сын DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG01002	wǫnt wɔj -ət -ən	лес зверь PL LOC	p	sbj	s	0	n	n	loc	nul	nul	0	p	anm	iob	0	1
+SG01003	kur -ən	нога LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	0	1
+SG01004	mԑlək muw	теплый земля	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+SG01005	toxł -əŋ wɔj -ət -ən	крыло ATTR зверь PL LOC	p	sbj	s	0	n	n	loc	nul	nul	0	p	anm	iob	0	1
+SG01006	ńałəm -ən	язык LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	1
+SG01101	šǫk	беда	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	0
+SG01102	pox -ije	сын DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG01301	ot	вещь	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG01302	jɔš -ən	рука LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+SG01501	aŋki	мать	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG01502	pox -ije -ł	сын DIM 3SG	i	sbj	s	1	3s	fam	nul	dim	nul	0	s	anm	obj	1	1
+SG01503	aśi	отец	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG01504	wǫnt	лес	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	1
+SG01505	ԑpł -əŋ lipt -ije -t	вкус ATTR лист DIM PL	i	sbj	s	0	n	n	nul	dim	nul	0	p	non	obj	0	1
+SG01601	wǫnt	лес	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+SG01602	wew -a	слабость DAT	i	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+SG01603	kur -ən	нога LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+SG01604	pox -ije -ł	мальчик DIM 3SG	i	sbj	s	1	3s	fam	psp	dim	nul	0	s	anm	pob	1	1
+SG01701	łɔśsԑm -ije	снежинка DIM	p	sbj	a	0	n	n	nul	dim	nul	0	s	anm	nul	1	1
+SG01702	mojsər ԑpł -əŋ lipt -ije -t	какой вкус ATTR лист DIM PL	p	sbj	s	0	n	n	nul	dim	nul	0	p	non	obj	1	1
+SG01801	łɔśsԑm -ije	снежинка DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG01802	lipt -ije -t	лист DIM PL	p	sbj	s	0	n	n	nul	dim	nul	0	p	non	obj	1	1
+SG02001	aśi	отец	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG02002	pa śir	другой образ	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	atr	0	0
+SG02003	pa śir ԑpł -əŋ lipt -ət	другой образ вкус ATTR лист PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	non	obj	1	1
+SG02004	pox -əł -a	сын 3SG DAT	i	sbj	s	1	3s	fam	dat	nul	nul	0	s	anm	iob	1	1
+SG02101	pox -ije	сын DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	nul	1	1
+SG02102	ԑpł -əŋ lipt -ət	вкус ATTR лист PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	non	prd	1	1
+SG02103	kur -əŋ wɔj -ən	нога ATTR зверь LOC	i	sbj	s	0	n	n	loc	nul	nul	0	s	anm	iob	0	1
+SG02201	šɔwər -leŋki	заяц DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG02401	aśi	отец	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG02501	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+SG02601	łɔśsԑm -ije	снежинка DIM	p	sbj	a	0	n	n	nul	dim	nul	0	s	anm	nul	1	1
+SG02602	wǫnt wɔj -ət	лес зверь PL	p	sbj	s	0	n	n	psp	nul	nul	0	p	anm	pob	0	1
+SG02603	ԑpł -əŋ łԑtot	вкус ATTR еда	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG02701	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+SG02801	łɔśsԑm -ije	снежинка DIM	i	sbj	a	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG02802	wɔj -ət	зверь PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	anm	pob	0	1
+SG02803	łԑtot	еда	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG03101	woxsar imi -je	лиса женщина DIM	p	obj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG03102	ńăx	смех	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	0
+SG03103	muł -əŋ -a	колдовство ATTR DAT	p	sbj	s	0	n	n	dat	atr	nul	0	s	non	prd	0	0
+SG03104	łiw -əł -ən	хвост 3SG LOC	i	sbj	s	1	3s	bod	loc	nul	nul	0	s	non	iob	1	1
+SG03105	ńoł	нос	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	1	1
+SG03106	ńoł tij -əł	нос конец 3SG	i	sbj	s	1	3s	bod	psp	nul	nul	1	s	non	pob	1	1
+SG03107	pԑłŋa	комар	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	obj	0	1
+SG03201	łɔśsԑm -ije	снежинка DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG03202	woxsar imi	лиса женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	1	1
+SG03203	woxsar imi łiw	лиса женщина хвост	p	sbj	s	0	n	n	nul	nul	nul	1	s	non	obj	1	1
+SG03204	xɔłłəp -əł	слеза 3SG	p	sbj	s	1	3s	oth	nul	nul	nul	0	s	non	sbj	1	1
+SG03301	woxsar	лиса	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	1	1
+SG03303	woxsar pun -əŋ łiw	лиса шерсть ATTR хвост	i	sbj	s	0	n	n	psp	nul	nul	1	s	non	pob	1	1
+SG03401	tăxe -ł	место 3SG	i	sbj	s	1	3s	dis	psp	nul	nul	0	s	non	pob	1	1
+SG03402	aŋke -ł	мать 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG03403	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG03501	łin łiw -ŋəł -ən	они.DU хвост DU.POSS 2/3DU	p	sbj	s	1	2/3d	bod	psp	nul	nul	1	s	non	pob	1	1
+SG03701	aŋkԑ -m	мать 1SG	i	sbj	s	1	1s	fam	nul	nul	nul	0	s	anm	sbj	1	1
+SG03702	aśԑ -m	отец 1SG	i	sbj	s	1	1s	fam	nul	nul	nul	0	s	anm	sbj	1	1
+SG03703	łiw	хвост	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+SG03801	łuw łiw -əł	он хвост 3SG	p	sbj	s	1	3s	bod	psp	nul	nul	1	s	non	pob	1	1
+SG03901	łiw -əł	хвост 3SG	p	obj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+SG04001	pɔxəł	клубок.3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	app	1	1
+SG04002	łiw -əł	хвост 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+SG04101	łiw -lԑ	хвост DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	non	obj	1	1
+SG04201	woxsar imi	лиса женщина	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG04202	xoras -əp łiw	вид ATTR хвост	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+SG04301	aŋke -ł -ən	мать 3SG LOC	i	sbj	s	1	3s	fam	loc	nul	nul	0	s	anm	iob	1	1
+SG04302	aśe -ł -ən	отец 3SG LOC	i	sbj	s	1	3s	fam	loc	nul	nul	0	s	anm	iob	1	1
+SG04303	wǫnt	лес	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+SG04501	woxsar imi	лиса женщина	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG04601	ma katra łiw -ԑm	я старый хвост 1SG	p	obj	s	1	1s	bod	nul	nul	nul	0	s	non	obj	1	1
+SG04701	katra ponrəmtəm łiw -əł	старый ободранный хвост 3SG	p	obj	s	1	3s	bod	nul	nul	nul	0	s	non	obj	1	1
+SG04702	nɔxər jux	кедр дерево	p	obj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	1
+SG04703	nɔxər jux łԑr -ən	кедр дерево корень LOC	p	obj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	1
+SG04704	šɔwər -lԑ	заяц DIM	p	obj	s	0	n	n	nul	dim	nul	0	s	anm	gen	1	1
+SG04705	šɔwər -lԑ łiw -a	заяц DIM хвост DAT	p	obj	s	0	n	n	dat	nul	nul	1	s	non	iob	1	1
+SG04801	jiłəp łiw -en	новый хвост 2SG	p	sbj	s	1	2s	bod	nul	nul	nul	0	s	non	obj	1	1
+SG04901	łɔśsԑm -ije	снежинка DIM	p	sbj	a	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG04902	tăxe -ł	место 3SG	p	sbj	s	1	3s	dis	psp	nul	nul	0	s	non	pob	0	0
+SG04903	aŋke -ł	мать 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG04904	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG04905	aŋke -ł	мать 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG04906	aśe -ł	отец 3SG	p	sbj	s	1	3s	fam	psp	nul	nul	0	s	anm	pob	1	1
+SG04907	łiw -əł -ən	хвост 3SG LOC	p	sbj	s	1	3s	bod	loc	nul	nul	0	s	non	obj	1	1
+SG04908	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	1	1
+SG04909	amt -əŋ uw	радость ATTR крик	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+SG05001	wɔj -ət	зверь PL	p	sbj	s	0	n	n	nul	nul	nul	0	p	anm	nul	1	1
+SG05002	mojsər wǫn pa xoraməŋ łiw	какой большой и красивый хвост	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+SG05101	šɔwr -ət	заяц PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	anm	pob	0	1
+SG05102	tăməś łiw	такой хвост	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG05201	wɔj -ət	зверь PL	i	sbj	s	0	n	n	nul	nul	nul	0	p	anm	sbj	1	1
+SG05301	šɔwər -lԑ	заяц DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	gen	1	1
+SG05302	šɔwər -lԑ săm -əł	заяц DIM сердце 3SG	p	sbj	s	1	3s	bod	nul	nul	nul	1	s	non	sbj	1	1
+SG05303	lipət	цветок	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+SG05501	jux -ət	дерево PL	i	sbj	s	0	n	n	psp	nul	nul	0	p	non	pob	0	1
+SG05502	łiw -əł	хвост 3SG	i	sbj	s	1	3s	bod	nul	nul	nul	0	s	non	sbj	1	1
+SG05601	kurək	орел	p	sbj	s	0	n	n	nul	nul	nul	0	s	anm	sbj	1	1
+SG05602	łɔśsԑm -ije	снежинка DIM	p	sbj	a	0	n	n	nul	dim	nul	0	s	anm	gen	1	1
+SG05603	łɔśsԑm -ije łiw -əł	снежинка DIM хвост 3SG	p	sbj	s	1	3s	bod	psp	nul	nul	1	s	non	pob	1	1
+SG05701	šɔwr -ije	заяц DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG05901	łiw	хвост	n	sbj	s	0	n	n	nul	nul	nul	0	s	non	nul	1	1
+SG06001	šɔwr -ije	заяц DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	anm	sbj	1	1
+SG06002	tɔlan -ŋəł -ał -ən	лапа DU.POSS 3SG LOC	i	sbj	s	1	3s	bod	loc	nul	nul	0	s	non	iob	1	1
+SG06003	łiw -əł	хвост 3SG	i	sbj	s	1	3s	bod	psp	nul	nul	0	s	non	pob	1	1
+SG06101	muw	земля	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	1	1
+SG06201	kăši tăxi -ł -ał	боль место PL 3SG	i	sbj	s	1	3s	bod	nul	nul	nul	0	p	anm	obj	0	1
+SG06301	aj łiw	маленький хвост	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	1	1
+SG06401	wǫn łiw	большой хвост	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	sbj	0	1
+SG06402	pa xojat	другой человек	i	sbj	s	0	n	n	nul	nul	nul	0	s	anm	gen	0	1
+SG06403	pa xojat łiw	другой человек хвост	i	sbj	s	0	n	n	nul	nul	nul	1	s	non	prd	0	1

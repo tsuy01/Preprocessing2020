@@ -1,0 +1,55 @@
+NP_ID	NP_Morph	NP_Gloss	ASP	CNJ	POS	PSS	PHI	SEM	MRK	DRV	DET	NPS	NUM	ANM	SYN	DEF	REF
+KI00001	kar	Кар	n	n	a	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+KI00002	kar iki	Кар мужчина	n	n	a	0	n	n	nul	nul	nul	0	s	hum	nul	1	1
+KI00101	atełt kǫrt -əł -ən	один избушка 3SG LOC	i	sbj	s	1	3s	dis	loc	nul	nul	0	s	non	iob	0	1
+KI00102	iki -lԑ	мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	0	1
+KI00201	wǫnt -a	лес DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	0
+KI00202	nɔxərsԑm pa kew -šuk	орех и камень DIM	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KI00203	nɔxərsԑm	орех	i	sbj	s	i	n	n	nul	nul	nul	0	s	non	obj	0	0
+KI00204	kew -šuk	камень DIM	i	sbj	s	i	n	n	nul	dim	nul	0	s	non	obj	0	0
+KI00401	in iki -lԑ -n	этот мужчина DIM 2SG	p	sbj	s	1	2s	dis	nul	dim	in	0	s	hum	sbj	1	1
+KI00402	at -a	ночь DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KI00403	pora -j -ən	время STEM LOC	p	sbj	s	0	n	n	loc	nul	nul	0	s	non	iob	1	1
+KI00404	nɔxərsԑm	орех	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	1
+KI00501	ɔw -əł	дверь 3SG	p	sbj	s	1	3s	dis	nul	nul	nul	0	s	non	sbj	1	1
+KI00601	kar	Кар	p	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI00602	kar ike -ł	Кар мужчина 3SG	p	sbj	a	1	3s	dis	nul	nul	nul	0	s	hum	sbj	1	1
+KI00701	iki -lԑ	мужчина DIM	p	sbj	s	0	n	n	psp	dim	nul	0	s	hum	pob	1	1
+KI00801	atełt kǫrt -əŋ iki -lԑ	один избушка ATTR мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	nul	1	1
+KI00802	moj	что	i	sbj	q	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KI00803	at	ночь	i	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+KI00804	atełt kǫrt -en -ən	один избушка 2SG LOC	i	sbj	s	1	2s	own	loc	nul	nul	0	s	non	iob	1	1
+KI00901	iki -lԑ	мужчина DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI01001	nɔxərsԑm	орех	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KI01101	kar	Кар	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01102	kar iki	Кар мужчина	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01301	iki -lԑ	мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI01302	kew -šuk	камень DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	non	obj	0	1
+KI01401	kar	Кар	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01402	kar iki	Кар мужчина	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01403	kew -šuk	камень DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	non	obj	1	1
+KI01404	tutsԑm	искра	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KI01601	iki -lԑ	мужчина DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI01602	nɔxərsԑm	орех	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	1	1
+KI01701	kar	Кар	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01702	kar iki	Кар мужчина	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI01703	kew -šuk	камень DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	non	obj	1	1
+KI01704	iki -lԑ	мужчина DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI02001	kew -šuk -ł -am	камень DIM PL 1SG	p	sbj	s	1	1s	own	nul	dim	nul	0	p	non	sbj	1	1
+KI02101	kar	Кар	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI02102	kar iki	Кар мужчина	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI02103	ałəŋa -j -a	утро STEM DAT	p	sbj	s	0	n	n	dat	nul	nul	0	s	non	iob	0	1
+KI02201	śi pora -j -ən	этот время STEM LOC	i	sbj	s	0	n	n	loc	nul	si	0	s	non	iob	1	1
+KI02202	kar	Кар	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI02203	kar iki	Кар мужчина	i	sbj	a	0	n	n	nul	nul	nul	0	s	hum	sbj	1	1
+KI02204	iki -lԑ	мужчина DIM	i	sbj	s	0	n	n	psp	dim	nul	0	s	hum	pob	1	1
+KI02301	nowi xătəł	светлый день	i	sbj	s	0	n	n	nul	nul	nul	0	s	non	gen	0	0
+KI02302	nowi xătəł pora -j -ən	светлый день время STEM LOC	i	sbj	s	0	n	n	loc	nul	nul	1	s	non	iob	0	0
+KI02303	atełt kǫrt -əŋ iki -lԑ	один избушка ATTR мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	nul	1	1
+KI02304	atełt kǫrt -en -ən	один избушка 2SG LOC	p	sbj	s	1	2s	own	loc	nul	nul	0	s	non	iob	1	1
+KI02305	at	ночь	p	sbj	s	0	n	n	psp	nul	nul	0	s	non	pob	0	0
+KI02306	nɔxərsԑm	орех	p	sbj	s	0	n	n	nul	nul	nul	0	s	non	obj	0	0
+KI02501	iki -lԑ	мужчина DIM	i	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI02502	kew -šuk -ł -ał	камень DIM PL 3SG	p	sbj	s	1	3s	own	nul	dim	nul	0	p	non	sbj	1	1
+KI02601	atełt kǫrt -əŋ iki -lԑ	один избушка ATTR мужчина DIM	p	sbj	s	0	n	n	nul	dim	nul	0	s	hum	sbj	1	1
+KI02701	śărt -əŋ xǫ	колдовство ATTR мужчина	p	sbj	s	0	n	n	nul	nul	nul	0	s	hum	prd	0	0
